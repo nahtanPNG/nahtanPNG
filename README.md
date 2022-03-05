@@ -3,7 +3,7 @@
 - Tenho 16 anos. 
 - Estou cursando desenvolvimento de sistemas.💻
 - Pretendo me tornar um Dev Full-Stack e GameDev.🎮 
-- Amante da cultura geek e japoensa.👺
+- Amante da cultura geek e japonesa.👺
 - Amo ouvir música.🎵
  
 #
