@@ -1,8 +1,10 @@
 ## Opa eae, aqui é o Nathan!
 
 - Tenho 16 anos. 
-- Estou cursando desenvolvimento de sistemas. 
-- Pretendo me tornar um Dev Full-Stack ou GameDev
+- Estou cursando desenvolvimento de sistemas.💻
+- Pretendo me tornar um Dev Full-Stack e GameDev.🎮 
+- Amante da cultura geek e japoensa.👺
+- Amo ouvir música.🎵
  
 #
 
