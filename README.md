@@ -1,10 +1,9 @@
 ### Opa eae, eu sou o Nathan! 📼
 
-- Tenho 17 anos. 
-- Estou cursando desenvolvimento de sistemas.💻
-- Pretendo me tornar um Dev ront-End e GameDev.🎮 
-- Amante da cultura geek e japonesa.👺
-- Amo ouvir música.🎵
+- 17 years old 💾
+- Systems development (2/3) 📱
+- Game development (GameMaker language and Unity) 🎮
+- Japanese Culture 👺
  
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nahtan_not_found/)
 
