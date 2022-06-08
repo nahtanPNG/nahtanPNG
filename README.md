@@ -1,7 +1,7 @@
 ### Hey!, I'm Nathan 📼
 
 - 17 years old 💾
-- Brazilian 🇧🇷
+- Brazilian 🟢🟡🔵
 - Systems development (2/3) 📱
 - Game development (GameMaker language and Unity) 🎮
 - Japanese Culture 👺
