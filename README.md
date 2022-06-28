@@ -3,7 +3,7 @@
 - 17 years old 💾
 - Brazilian 🟢🟡🔵
 - Systems development (2/3) 📱
-- Game development (GameMaker language and Unity) 🎮
+- Game development (GameMaker Studio 2) 🎮
 - Japanese Culture 👺
  
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nahtan_not_found/)
