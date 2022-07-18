@@ -16,7 +16,7 @@
  [![Itch](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://sleepysheep-studio.itch.io)
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nahtanPNG&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahtanPNG&layout=compact&langs_count=7&theme=dark"/>
-https://wakatime.com/@nahtanPNG
+<img src="https://wakatime.com/@nahtanPNG"/>
 ## 🎖️ Skills with experience:
 <div style="display: inline_block"><br/>
   <img align="center" alt="HMTL5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
