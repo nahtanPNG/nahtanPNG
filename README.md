@@ -15,7 +15,14 @@
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-ferreira-121545241/)
  [![Itch](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://sleepysheep-studio.itch.io)
 
+<div align="center">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nahtanPNG&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahtanPNG&layout=compact&langs_count=7&theme=dark"/>
+<a href="https://wakatime.com/@nahtanPNG" target="_blank">
+	<img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=nahtanPNG&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
+</a>
+</div>
+
+
 
 ## 🎖️ Skills with experience:
 <div style="display: inline_block"><br/>
