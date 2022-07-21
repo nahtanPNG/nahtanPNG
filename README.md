@@ -1,15 +1,10 @@
-<div align="center">
+```javascript
+let dev = ['Nathan Ferreira', 17, 'Brazilian', 'GameDeveloper and FullStack Developer']
 
-## Hey!, I'm Nathan 📼 
-</div>
-
-### 💾 About me
-- 17 years old 💾
-- Brazilian 🟢🟡🔵
-- Systems development (2/3) 📱
-- Game development (GameMaker Studio 2) 🎮
-- Japanese Culture 👺
- 
+for(let pos in dev){
+    console.log(dev[pos])
+}
+```
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nahtan_not_found/)
  [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/nahtanPNG/)
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-ferreira-121545241/)
