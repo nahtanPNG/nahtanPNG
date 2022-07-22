@@ -5,7 +5,8 @@ nacionality: 'Brazil',
 work: 'FullStack developer and Game developer'
 }
 
-console.log(`Hi! I'm ${dev.name}, I'm ${dev.age} years old and i'm from ${dev.nacionality}! I'm currently studying to be a ${dev.work}`)
+console.log(`Hi! I'm ${dev.name}, I'm ${dev.age} years old and i'm from ${dev.nacionality}! 
+I'm currently studying to be a ${dev.work}`)
 ```
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nahtan_not_found/)
  [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/nahtanPNG/)
