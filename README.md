@@ -71,6 +71,8 @@ I'm currently studying to be a ${dev.work}`)
  
   ![Snake animation](https://github.com/nahtanPNG/nahtanPNG/blob/output/github-contribution-grid-snake.svg)<br/>
  <div align="left">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=nahtanPNG&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahtanPNG&layout=compact&langs_count=7&theme=dark"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=nahtanPNG&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <a href="https://wakatime.com/@nahtanPNG" target="_blank">
+	<img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=nahtanPNG&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
+</a>
 </div><br/>
 
