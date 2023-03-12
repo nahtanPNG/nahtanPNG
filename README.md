@@ -1,5 +1,9 @@
 ![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33632f61652f63363363616531333434373636663134643964313834653561616665643036352e676966](https://user-images.githubusercontent.com/93049899/204681030-6ce81c5f-85f1-4801-8e93-ab41c30cda9c.jpg)
 
+<div>
+ <img height="450em" align="right" alt="GIFDEV" src="https://user-images.githubusercontent.com/93049899/216433607-df24729f-40cc-4142-a330-8c9225b7ea70.gif" />
+</div>
+
 ```javascript
 let dev = {name: 'Nathan',
 age: 17,
@@ -10,9 +14,7 @@ work: 'FullStack and Game developer'
 console.log(`Hi! I'm ${dev.name}, I'm ${dev.age} years old and i'm from ${dev.nacionality}! 
 I'm currently studying to be a ${dev.work}`)
 ```
-<div>
- <img height="500em" align="right" alt="HMTL5" src="https://user-images.githubusercontent.com/93049899/216433607-df24729f-40cc-4142-a330-8c9225b7ea70.gif" />
-</div>
+
 
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nahtan_not_found/)
  [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/nahtanPNG/)
