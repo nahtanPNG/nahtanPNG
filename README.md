@@ -11,9 +11,9 @@ console.log(`Hi! I'm ${dev.name}, I'm ${dev.age} years old and i'm from ${dev.na
 I'm currently studying to be a ${dev.work}`)
 ```
 
-<div>
+<!-- <div>
  <img height="450em" align="right" alt="GIFDEV" src="https://user-images.githubusercontent.com/93049899/216433607-df24729f-40cc-4142-a330-8c9225b7ea70.gif" />
-</div>
+</div> -->
 
  [![Instagram](https://img.shields.io/badge/Instagram-323330?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nahtan_not_found/)
  [![Linktree](https://img.shields.io/badge/linktree-323330?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/nahtanPNG/)
@@ -52,7 +52,6 @@ I'm currently studying to be a ${dev.work}`)
 	
  <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-323330?style=for-the-badge&logo=windows&logoColor=white"/>
 	
- 
  <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-323330?style=for-the-badge&logo=git&logoColor=white"/>
  
  </div><br/>
