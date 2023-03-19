@@ -41,7 +41,7 @@ I'm currently studying to be a ${dev.work}`)
  <img align="center" alt="INTELLIJ" src="https://img.shields.io/badge/IntelliJ_IDEA-323330.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 	
  <img align="center" alt="NOTION" src="https://img.shields.io/badge/Notion-323330?style=for-the-badge&logo=notion&logoColor=white"/>
-	
+	<br></br>
  <img align="center" alt="PS" src="https://img.shields.io/badge/Adobe%20Photoshop-323330?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
 	
  <img align="center" alt="FIGMA" src="https://img.shields.io/badge/Figma-323330?style=for-the-badge&logo=figma&logoColor=white" />
