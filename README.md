@@ -1,4 +1,6 @@
-![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33632f61652f63363363616531333434373636663134643964313834653561616665643036352e676966](https://user-images.githubusercontent.com/93049899/204681030-6ce81c5f-85f1-4801-8e93-ab41c30cda9c.jpg)
+<!-- ![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33632f61652f63363363616531333434373636663134643964313834653561616665643036352e676966](https://user-images.githubusercontent.com/93049899/204681030-6ce81c5f-85f1-4801-8e93-ab41c30cda9c.jpg) -->
+
+![Olá, me chamo Nathan  Muito prazer  (2)](https://user-images.githubusercontent.com/93049899/230245556-aa2854bc-0c80-4ca6-abf2-61bc4d0294e0.png)
 
 ```javascript
 let dev = {name: 'Nathan',
@@ -10,10 +12,6 @@ work: 'FullStack and Game developer'
 console.log(`Hi! I'm ${dev.name}, I'm ${dev.age} years old and i'm from ${dev.nacionality}! 
 I'm currently studying to be a ${dev.work}`)
 ```
-
-<!-- <div>
- <img height="450em" align="right" alt="GIFDEV" src="https://user-images.githubusercontent.com/93049899/216433607-df24729f-40cc-4142-a330-8c9225b7ea70.gif" />
-</div> -->
 
  [![Instagram](https://img.shields.io/badge/Instagram-323330?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nahtan_not_found/)
  [![Linktree](https://img.shields.io/badge/linktree-323330?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/nahtanPNG/)
