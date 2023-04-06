@@ -12,11 +12,9 @@ work: 'FullStack and Game developer'
 console.log(`Hi! I'm ${dev.name}, I'm ${dev.age} years old and i'm from ${dev.nacionality}! 
 I'm currently studying to be a ${dev.work}`)
 ```
-
  [![Instagram](https://img.shields.io/badge/Instagram-323330?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nahtan_not_found/)
  [![Linktree](https://img.shields.io/badge/linktree-323330?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/nahtanPNG/)
  [![Linkedin](https://img.shields.io/badge/LinkedIn-323330?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-ferreira-121545241/)
- [![Itch](https://img.shields.io/badge/Itch.io-323330?style=for-the-badge&logo=itchdotio&logoColor=white)](https://sleepysheep-studio.itch.io)
 
 ## 🎖️ Skills with experience: 
 <div style="display: inline_block"><br/>
