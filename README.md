@@ -16,54 +16,55 @@ I'm currently studying to be a ${dev.work}`)
  [![Linktree](https://img.shields.io/badge/linktree-000000?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/nahtanPNG/)
  [![Linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-ferreira-121545241/)
 
-## 🎖️ Skills with experience: 
-<div style="display: inline_block"><br/>
+## 👨‍💻Skills
+<details>
+  <summary>Languagues</summary>
+  
  <img align="center" alt="HMTL5" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=whit" />
  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white" />
- <img align="center" alt="MSQL" src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
  <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" />
- </div><br/>
- 
-## 💻 Tools:
- <div style="display: inline_block"><br/>
- <img align="center" alt="VS" src="https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
-	
- <img align="center" alt="VSC" src="https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-	
- <img align="center" alt="ECLIPSE" src="https://img.shields.io/badge/Eclipse-000000?style=for-the-badge&logo=eclipse&logoColor=white" />
-	
- <img align="center" alt="INTELLIJ" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-	
- <img align="center" alt="NOTION" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-	<br></br>
- <img align="center" alt="PS" src="https://img.shields.io/badge/Adobe%20Photoshop-000000?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white"/>
-	
- <img align="center" alt="FIGMA" src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
-	
- <img align="center" alt="Github" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-	
- <img align="center" alt="Microoffice" src="https://img.shields.io/badge/Microsoft_Office-000000?style=for-the-badge&logo=microsoft-office&logoColor=white" />
-	
- <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white"/>
-	
- <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white"/>
- 
- </div><br/>
- 
-## 🥉 Other Knowledge / less experience:
- <div style="display: inline_block"><br/>
  <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
  <img align="center" alt="ARDUINO" src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=Arduino&logoColor=white" />
  <img align="center" alt="GAMEMAKER" src="https://img.shields.io/badge/-GameMakerLanguage-000000?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAZlBMVEX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2BrG8stAAAAIXRSTlMABg0OFBkfcn1%2Bf4CBgoOFhoeIiouWmNDa5ebp8PX2%2B%2F6o6Vq%2BAAAAY0lEQVR42k2OWQ6AIAwFn%2BIOioobrnD%2FS4o0EeanmQxNAdErRFTWtsFq6%2BiiZozz0CSnTjYBwo0RkF8DWDLf51Ni9K%2FYdq0Fy3KAfzk97M7goK1F%2F4rGH9Kk1OlboQtEDIrmC%2BU3CVxTr%2FRMAAAAAElFTkSuQmCC" />
- </div><br/>
+ </details>
  
- ## 📓 Studying in this moment:
- <div style="display: inline_block"><br/>
- <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
- </div>
+ <details>
+  <summary>Database</summary>
+  
+ <img align="center" alt="MSQL" src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+</details>
  
+ <details>
+  <summary>Design</summary>
+  
+ <img align="center" alt="PS" src="https://img.shields.io/badge/Adobe%20Photoshop-000000?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white"/>
+ <img align="center" alt="FIGMA" src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
+</details>
+
+<details>
+  <summary>Versioning</summary>
+  
+ <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white"/>
+ <img align="center" alt="Github" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</details>
+
+<details>
+  <summary>IDE'S</summary>
+ <img align="center" alt="VS" src="https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+ <img align="center" alt="VSC" src="https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+ <img align="center" alt="ECLIPSE" src="https://img.shields.io/badge/Eclipse-000000?style=for-the-badge&logo=eclipse&logoColor=white" />
+ <img align="center" alt="INTELLIJ" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+</details>
+
+<details>
+  <summary>Tools</summary>
+ <img align="center" alt="NOTION" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+ <img align="center" alt="Microoffice" src="https://img.shields.io/badge/Microsoft_Office-000000?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+ <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white"/>
+</details>
+
  ## 🗃️ Areas of Interest:
  <div style="display: inline_block"><br/>
  <img align="center" alt="UNITY" src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
