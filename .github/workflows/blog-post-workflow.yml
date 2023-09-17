@@ -14,6 +14,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Pull in dev.to posts
-        uses: nahtanpng/.github/workflows/blog-post-workflow@vmain
+        uses: nahtanPNG/blog-post-workflow@vmain
         with:
           feed_list: "https://dev.to/feed/nahtanpng"
