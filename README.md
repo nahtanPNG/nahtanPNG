@@ -90,5 +90,7 @@ I'm currently studying to be a ${dev.work}`)
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Explorando o Flutter: Um Guia Básico para Iniciantes](https://dev.to/nahtanpng/explorando-o-flutter-um-guia-basico-para-iniciantes-55l6)
+- [Gerenciamento de Estado no Flutter, aprenda de uma vez!](https://dev.to/nahtanpng/gerenciamento-de-estado-no-flutter-aprenda-de-uma-vez-51k8)
 <!-- BLOG-POST-LIST:END -->
 
