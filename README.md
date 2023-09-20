@@ -20,6 +20,7 @@ I'm currently studying to be a ${dev.work}`)
  ## 📌 Last blogs post
 
 <!-- BLOG-POST-LIST:START -->
+- [WakaTime: Uma Forma de Aumentar Sua Produtividade e Gerenciar Seu Tempo](https://dev.to/nahtanpng/wakatime-uma-forma-de-aumentar-sua-produtividade-e-gerenciar-seu-tempo-568p)
 - [Explorando o Flutter: Um Guia Básico para Iniciantes](https://dev.to/nahtanpng/explorando-o-flutter-um-guia-basico-para-iniciantes-55l6)
 - [Gerenciamento de Estado no Flutter, aprenda de uma vez!](https://dev.to/nahtanpng/gerenciamento-de-estado-no-flutter-aprenda-de-uma-vez-51k8)
 <!-- BLOG-POST-LIST:END -->
