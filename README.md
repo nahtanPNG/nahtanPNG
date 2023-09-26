@@ -1,6 +1,6 @@
 <!-- ![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33632f61652f63363363616531333434373636663134643964313834653561616665643036352e676966](https://user-images.githubusercontent.com/93049899/204681030-6ce81c5f-85f1-4801-8e93-ab41c30cda9c.jpg) -->
 
-![Olá, me chamo Nathan  Muito prazer  (2)](https://user-images.githubusercontent.com/93049899/230245556-aa2854bc-0c80-4ca6-abf2-61bc4d0294e0.png)
+<!-- ![Olá, me chamo Nathan  Muito prazer  (2)](https://user-images.githubusercontent.com/93049899/230245556-aa2854bc-0c80-4ca6-abf2-61bc4d0294e0.png) -->
 
 ```javascript
 let dev = {name: 'Nathan',
@@ -32,7 +32,7 @@ I'm currently studying to be a ${dev.work}`)
  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white" />
  <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" />
- <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
+ <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
  <img align="center" alt="GAMEMAKER" src="https://img.shields.io/badge/-GameMakerLanguage-000000?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAZlBMVEX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2BrG8stAAAAIXRSTlMABg0OFBkfcn1%2Bf4CBgoOFhoeIiouWmNDa5ebp8PX2%2B%2F6o6Vq%2BAAAAY0lEQVR42k2OWQ6AIAwFn%2BIOioobrnD%2FS4o0EeanmQxNAdErRFTWtsFq6%2BiiZozz0CSnTjYBwo0RkF8DWDLf51Ni9K%2FYdq0Fy3KAfzk97M7goK1F%2F4rGH9Kk1OlboQtEDIrmC%2BU3CVxTr%2FRMAAAAAElFTkSuQmCC" />
  </details>
 
