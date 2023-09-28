@@ -13,6 +13,7 @@ console.log(`Hi! I'm ${dev.name}, I'm ${dev.age} years old and i'm from ${dev.na
 I'm currently studying to be a ${dev.work}`)
 ```
 ## 📞 My socials
+
  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/nahtan_not_found/)
  [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nathan-ferreira-121545241/)
  [![DevComunnity](https://skillicons.dev/icons?i=devto)](https://dev.to/nahtanpng)
