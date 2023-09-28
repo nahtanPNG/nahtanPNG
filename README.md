@@ -12,13 +12,13 @@ work: 'FullStack and Game developer'
 console.log(`Hi! I'm ${dev.name}, I'm ${dev.age} years old and i'm from ${dev.nacionality}! 
 I'm currently studying to be a ${dev.work}`)
 ```
-  📞 My socials
+  <h2>📞 My socials</h2>
 
  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/nahtan_not_found/)
  [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nathan-ferreira-121545241/)
  [![DevComunnity](https://skillicons.dev/icons?i=devto)](https://dev.to/nahtanpng)
 
- 📌 Last blogs post
+ <h2>📌 Last blogs post</h2>
 
 <!-- BLOG-POST-LIST:START -->
 - [WakaTime: Uma Forma de Aumentar Sua Produtividade e Gerenciar Seu Tempo](https://dev.to/nahtanpng/wakatime-uma-forma-de-aumentar-sua-produtividade-e-gerenciar-seu-tempo-568p)
@@ -26,7 +26,7 @@ I'm currently studying to be a ${dev.work}`)
 - [Gerenciamento de Estado no Flutter, aprenda de uma vez!](https://dev.to/nahtanpng/gerenciamento-de-estado-no-flutter-aprenda-de-uma-vez-51k8)
 <!-- BLOG-POST-LIST:END -->
 
- 👨‍💻Skills
+ <h2>👨‍💻Skills</h2>
 
  Languages
 
