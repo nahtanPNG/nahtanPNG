@@ -12,10 +12,10 @@ work: 'FullStack and Game developer'
 console.log(`Hi! I'm ${dev.name}, I'm ${dev.age} years old and i'm from ${dev.nacionality}! 
 I'm currently studying to be a ${dev.work}`)
 ```
- [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nahtan_not_found/)
- [![Linktree](https://img.shields.io/badge/linktree-000000?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/nahtanPNG/)
- [![Linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-ferreira-121545241/)
- [![DevComunnity](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/nahtanpng)
+## 📞 My socials
+ [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/nahtan_not_found/)
+ [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nathan-ferreira-121545241/)
+ [![DevComunnity](https://skillicons.dev/icons?i=devto)](https://dev.to/nahtanpng)
 
  ## 📌 Last blogs post
 
@@ -26,66 +26,39 @@ I'm currently studying to be a ${dev.work}`)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👨‍💻Skills
-<details>
-  <summary>Languagues</summary>
+
+### Languages
+
+[![Languages](https://skillicons.dev/icons?i=java,cs,js,dart,py)](https://skillicons.dev)
+
+### Frontend Development
 	
- <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white" />
- <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
- <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" />
- <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
- <img align="center" alt="GAMEMAKER" src="https://img.shields.io/badge/-GameMakerLanguage-000000?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAZlBMVEX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2BrG8stAAAAIXRSTlMABg0OFBkfcn1%2Bf4CBgoOFhoeIiouWmNDa5ebp8PX2%2B%2F6o6Vq%2BAAAAY0lEQVR42k2OWQ6AIAwFn%2BIOioobrnD%2FS4o0EeanmQxNAdErRFTWtsFq6%2BiiZozz0CSnTjYBwo0RkF8DWDLf51Ni9K%2FYdq0Fy3KAfzk97M7goK1F%2F4rGH9Kk1OlboQtEDIrmC%2BU3CVxTr%2FRMAAAAAElFTkSuQmCC" />
- </details>
+[![Frontend](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
-<details>
-	 <summary>Frontend Development</summary>
-	
-<img align="center" alt="HMTL5" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
- <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=whit" />
- </details>
- 
- <details>
-	 <summary>Mobile App Development</summary>
+### Backend Development
 
-<img align="center" alt="FLUTTER" src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white" />
-	  <img align="center" alt="DART" src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=white" />
-	  <img align="center" alt="ANDROID" src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=white" />
- </details>
- <details>
-	 <summary>Database</summary>
+[![Frontend](https://skillicons.dev/icons?i=js,php)](https://skillicons.dev)
+
+### Mobile App Development
+
+[![Mobile](https://skillicons.dev/icons?i=java,flutter)](https://skillicons.dev)
+
+### Database
 	 
-<img align="center" alt="MSQL" src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
-</details>
- 
- <details>
-  <summary>Design</summary>
-	 
- <img align="center" alt="PS" src="https://img.shields.io/badge/Adobe%20Photoshop-000000?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white"/>
- <img align="center" alt="FIGMA" src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
-</details>
+[![Mobile](https://skillicons.dev/icons?i=mysql,firebase)](https://skillicons.dev)
 
-<details>
-  <summary>Versioning</summary>
+### Design
+	 
+[![Mobile](https://skillicons.dev/icons?i=ps,figma)](https://skillicons.dev)
+
+### Versioning
   
- <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white"/>
- <img align="center" alt="Github" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</details>
+[![Mobile](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
-<details>
-  <summary>IDE'S</summary>
-	
- <img align="center" alt="VS" src="https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
- <img align="center" alt="VSC" src="https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
- <img align="center" alt="ECLIPSE" src="https://img.shields.io/badge/Eclipse-000000?style=for-the-badge&logo=eclipse&logoColor=white" />
- <img align="center" alt="INTELLIJ" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-</details>
+### IDE'S
 
-<details>
-  <summary>Tools</summary>
-	
- <img align="center" alt="NOTION" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
- <img align="center" alt="Microoffice" src="https://img.shields.io/badge/Microsoft_Office-000000?style=for-the-badge&logo=microsoft-office&logoColor=white" />
- <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white"/>
-</details>
+ [![Mobile](https://skillicons.dev/icons?i=vscode,visualstudio,idea,gamemakerstudio)](https://skillicons.dev)
+
 
  <!-- ## 🗃️ Areas of Interest:
  <div style="display: inline_block"><br/>
