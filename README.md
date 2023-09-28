@@ -12,13 +12,13 @@ work: 'FullStack and Game developer'
 console.log(`Hi! I'm ${dev.name}, I'm ${dev.age} years old and i'm from ${dev.nacionality}! 
 I'm currently studying to be a ${dev.work}`)
 ```
- <h2>📞 My socials</h2>
+## 📞 My socials
 
  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/nahtan_not_found/)
  [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nathan-ferreira-121545241/)
  [![DevComunnity](https://skillicons.dev/icons?i=devto)](https://dev.to/nahtanpng)
 
-<h2>📌 Last blogs post</h2> 
+## 📌 Last blogs post
 
 <!-- BLOG-POST-LIST:START -->
 - [WakaTime: Uma Forma de Aumentar Sua Produtividade e Gerenciar Seu Tempo](https://dev.to/nahtanpng/wakatime-uma-forma-de-aumentar-sua-produtividade-e-gerenciar-seu-tempo-568p)
