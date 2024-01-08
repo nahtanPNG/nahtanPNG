@@ -6,19 +6,38 @@
 let dev = {name: 'Nathan',
 age: 18,
 nacionality: 'Brazil',
-work: 'FullStack and Game developer'
+work: 'FullStack developer'
 }
 
 console.log(`Hi! I'm ${dev.name}, I'm ${dev.age} years old and i'm from ${dev.nacionality}! 
 I'm currently studying to be a ${dev.work}`)
 ```
-  <h2>📞 My socials</h2>
+<p align="center">
+<a href="https://linkedin.com/in/devnahtan"><img src="https://img.shields.io/badge/linkedin-7156B2?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
+<a href="https://dev.to/nahtanpng"><img src="https://img.shields.io/badge/dev.to-7156B2?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+<a href="mailto:nathan.ferreiira.contato@gmail.com"><img src="https://img.shields.io/badge/email-7156B2?logo=gmail&style=for-the-badge&logoColor=F2F2F2"/></a>
 
- [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/nahtan_not_found/)
- [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nathan-ferreira-121545241/)
- [![DevComunnity](https://skillicons.dev/icons?i=devto)](https://dev.to/nahtanpng)
+## **Skill:**
+<p align="left"> 
+<img src="https://img.shields.io/badge/HTML-7156B2?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-7156B2?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-7156B2?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-7156B2?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/csharp-7156B2?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-7156B2?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/MYSQL-7156B2?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/firebase-7156B2?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-7156B2?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/dart-7156B2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/FLUTTER-7156B2?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/bootstrap-7156B2?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/figma-7156B2?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-7156B2?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-7156B2?style=for-the-badge&logo=github&logoColor=white"/>
 
- <h2>📌 Last blogs post</h2>
+</p>
+
+## **Last Blog Posts:**
 
 <!-- BLOG-POST-LIST:START -->
 - [WakaTime: Uma Forma de Aumentar Sua Produtividade e Gerenciar Seu Tempo](https://dev.to/nahtanpng/wakatime-uma-forma-de-aumentar-sua-produtividade-e-gerenciar-seu-tempo-568p)
@@ -26,37 +45,4 @@ I'm currently studying to be a ${dev.work}`)
 - [Gerenciamento de Estado no Flutter, aprenda de uma vez!](https://dev.to/nahtanpng/gerenciamento-de-estado-no-flutter-aprenda-de-uma-vez-51k8)
 <!-- BLOG-POST-LIST:END -->
 
- <h2>👨‍💻Skills</h2>
-
- Languages
-
-[![Languages](https://skillicons.dev/icons?i=java,cs,js,dart,py)](https://skillicons.dev)
-
- Frontend Development
-	
-[![Frontend](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
-
- Backend Development
-
-[![Frontend](https://skillicons.dev/icons?i=js,php)](https://skillicons.dev)
-
- Mobile App Development
-
-[![Mobile](https://skillicons.dev/icons?i=java,flutter)](https://skillicons.dev)
-
- Database
-	 
-[![Mobile](https://skillicons.dev/icons?i=mysql,firebase)](https://skillicons.dev)
-
- Design
-	 
-[![Mobile](https://skillicons.dev/icons?i=ps,figma)](https://skillicons.dev)
-
- Versioning
-  
-[![Mobile](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-
- IDE'S
-
- [![Mobile](https://skillicons.dev/icons?i=vscode,visualstudio,idea,gamemakerstudio)](https://skillicons.dev)
-
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/?username=nahtanpng&style=for-the-badge&title_color=7156B2&text_color=F2F2F2&bg_color=000000&border_color=121111&show_icons=true&icon_color=F2F2F2&rank_icon=github"/></p>
