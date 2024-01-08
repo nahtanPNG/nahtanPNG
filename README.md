@@ -17,7 +17,7 @@ I'm currently studying to be a ${dev.work}`)
 <a href="https://dev.to/nahtanpng"><img src="https://img.shields.io/badge/dev.to-7156B2?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 <a href="mailto:nathan.ferreiira.contato@gmail.com"><img src="https://img.shields.io/badge/email-7156B2?logo=gmail&style=for-the-badge&logoColor=F2F2F2"/></a>
 
-## **Skill:**
+## **Skills:**
 <p align="left"> 
 <img src="https://img.shields.io/badge/HTML-7156B2?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-7156B2?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -34,7 +34,14 @@ I'm currently studying to be a ${dev.work}`)
 <img src="https://img.shields.io/badge/figma-7156B2?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/git-7156B2?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/github-7156B2?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
+## **Learning:**
+<p align="left">
+<img src="https://img.shields.io/badge/NODE.JS-A2B356?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TYPESCRIPT-A2B356?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/REACT-A2B356?style=for-the-badge&logo=react&logoColor=white"/>
+  
 </p>
 
 ## **Last Blog Posts:**
