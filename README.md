@@ -52,4 +52,7 @@ I'm currently studying to be a ${dev.work}`)
 - [Gerenciamento de Estado no Flutter, aprenda de uma vez!](https://dev.to/nahtanpng/gerenciamento-de-estado-no-flutter-aprenda-de-uma-vez-51k8)
 <!-- BLOG-POST-LIST:END -->
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/?username=nahtanpng&style=for-the-badge&title_color=7156B2&text_color=F2F2F2&bg_color=000000&border_color=121111&show_icons=true&icon_color=F2F2F2&rank_icon=github"/></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/?username=nahtanpng&style=for-the-badge&title_color=7156B2&text_color=F2F2F2&bg_color=000000&border_color=121111&show_icons=true&icon_color=F2F2F2&rank_icon=github"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahtanpng&style=for-the-badge&title_color=7156B2&text_color=F2F2F2&bg_color=000000&border_color=121111&show_icons=true"/>
+</p>
