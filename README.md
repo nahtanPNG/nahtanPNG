@@ -2,7 +2,7 @@
 
 <!-- ![Olá, me chamo Nathan  Muito prazer  (2)](https://user-images.githubusercontent.com/93049899/230245556-aa2854bc-0c80-4ca6-abf2-61bc4d0294e0.png) -->
 
-```javascript
+<!--```javascript
 let dev = {name: 'Nathan',
 age: 18,
 nacionality: 'Brazil',
@@ -11,7 +11,9 @@ work: 'FullStack developer'
 
 console.log(`Hi! I'm ${dev.name}, I'm ${dev.age} years old and i'm from ${dev.nacionality}! 
 I'm currently studying to be a ${dev.work}`)
-```
+``` -->
+<img src="https://github.com/nahtanPNG/nahtanPNG/assets/93049899/47298db5-3ab5-4d9e-8c2c-b96886531ea8"/>
+
 <p align="center">
 <a href="https://linkedin.com/in/devnahtan"><img src="https://img.shields.io/badge/linkedin-865DFF?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
 <a href="https://dev.to/nahtanpng"><img src="https://img.shields.io/badge/dev.to-865DFF?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
