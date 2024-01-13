@@ -1,7 +1,5 @@
 <!-- ![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33632f61652f63363363616531333434373636663134643964313834653561616665643036352e676966](https://user-images.githubusercontent.com/93049899/204681030-6ce81c5f-85f1-4801-8e93-ab41c30cda9c.jpg) -->
 
-<!-- ![Olá, me chamo Nathan  Muito prazer  (2)](https://user-images.githubusercontent.com/93049899/230245556-aa2854bc-0c80-4ca6-abf2-61bc4d0294e0.png) -->
-
 <!--```javascript
 let dev = {name: 'Nathan',
 age: 18,
