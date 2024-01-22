@@ -41,6 +41,7 @@ I'm currently studying to be a ${dev.work}`)
 <img src="https://img.shields.io/badge/NODE.JS-E384FF?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/TYPESCRIPT-E384FF?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/REACT-E384FF?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-E384FF?style=for-the-badge&logo=laravel&logoColor=white"/>
   
 </p>
 
