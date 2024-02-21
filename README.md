@@ -17,6 +17,11 @@ I'm currently studying to be a ${dev.work}`)
 <a href="https://dev.to/nahtanpng"><img src="https://img.shields.io/badge/dev.to-865DFF?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 <a href="mailto:nathan.ferreiira.contato@gmail.com"><img src="https://img.shields.io/badge/email-865DFF?logo=gmail&style=for-the-badge&logoColor=F2F2F2"/></a>
 
+## **About me:**
+* Nathan Ferreira, 18 years
+* Full Stack Developer
+* Currently studying Laravel
+  
 ## **Skills:**
 <p align="left"> 
 <img src="https://img.shields.io/badge/HTML-865DFF?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -34,15 +39,6 @@ I'm currently studying to be a ${dev.work}`)
 <img src="https://img.shields.io/badge/figma-865DFF?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/git-865DFF?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/github-865DFF?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-## **Learning:**
-<p align="left">
-<img src="https://img.shields.io/badge/NODE.JS-E384FF?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/TYPESCRIPT-E384FF?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/REACT-E384FF?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-E384FF?style=for-the-badge&logo=laravel&logoColor=white"/>
-  
 </p>
 
 ## **Last Blog Posts:**
