@@ -14,7 +14,7 @@ I'm currently studying to be a ${dev.work}`)
 
 ## **About me:**
 * Nathan Ferreira, 18 years
-* Full Stack Developer
+* Full Stack Software Engineer
 * Currently studying Laravel <br>
 
 <a href="https://linkedin.com/in/devnahtan"><img src="https://img.shields.io/badge/linkedin-1B1B1B?style=for-the-badge&logoColor=FFFFFF&logo=linkedin"/></a>
