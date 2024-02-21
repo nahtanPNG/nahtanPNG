@@ -10,35 +10,34 @@ work: 'FullStack developer'
 console.log(`Hi! I'm ${dev.name}, I'm ${dev.age} years old and i'm from ${dev.nacionality}! 
 I'm currently studying to be a ${dev.work}`)
 ``` -->
-<img src="https://github.com/nahtanPNG/nahtanPNG/assets/93049899/47298db5-3ab5-4d9e-8c2c-b96886531ea8"/>
-
-<p align="center">
-<a href="https://linkedin.com/in/devnahtan"><img src="https://img.shields.io/badge/linkedin-865DFF?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
-<a href="https://dev.to/nahtanpng"><img src="https://img.shields.io/badge/dev.to-865DFF?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
-<a href="mailto:nathan.ferreiira.contato@gmail.com"><img src="https://img.shields.io/badge/email-865DFF?logo=gmail&style=for-the-badge&logoColor=F2F2F2"/></a>
+<!-- <img src="https://github.com/nahtanPNG/nahtanPNG/assets/93049899/47298db5-3ab5-4d9e-8c2c-b96886531ea8"/> -->
 
 ## **About me:**
 * Nathan Ferreira, 18 years
 * Full Stack Developer
-* Currently studying Laravel
+* Currently studying Laravel <br>
+
+<a href="https://linkedin.com/in/devnahtan"><img src="https://img.shields.io/badge/linkedin-1B1B1B?style=for-the-badge&logoColor=FFFFFF&logo=linkedin"/></a>
+<a href="https://dev.to/nahtanpng"><img src="https://img.shields.io/badge/dev.to-1B1B1B?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+<a href="mailto:nathan.ferreiira.contato@gmail.com"><img src="https://img.shields.io/badge/email-1B1B1B?logo=gmail&style=for-the-badge&logoColor=FFFFFF"/></a>
   
 ## **Skills:**
 <p align="left"> 
-<img src="https://img.shields.io/badge/HTML-865DFF?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-865DFF?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-865DFF?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Javascript-865DFF?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/csharp-191825?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-191825?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/MYSQL-865DFF?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/firebase-191825?style=for-the-badge&logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/java-191825?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/dart-191825?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/FLUTTER-191825?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/bootstrap-191825?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/figma-865DFF?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/git-865DFF?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-865DFF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-1B1B1B?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1B1B1B?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-1B1B1B?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-1B1B1B?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/csharp-1B1B1B?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-1B1B1B?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/MYSQL-1B1B1B?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/firebase-1B1B1B?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-1B1B1B?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/dart-1B1B1B?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/FLUTTER-1B1B1B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/bootstrap-1B1B1B?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/figma-1B1B1B?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-1B1B1B?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-1B1B1B?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ## **Last Blog Posts:**
@@ -50,6 +49,6 @@ I'm currently studying to be a ${dev.work}`)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/?username=nahtanpng&style=for-the-badge&title_color=865DFF&text_color=F2F2F2&bg_color=191825&border_color=121111&show_icons=true&icon_color=F2F2F2&rank_icon=github"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahtanpng&style=for-the-badge&title_color=865DFF&text_color=F2F2F2&bg_color=191825&border_color=121111&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/?username=nahtanpng&style=for-the-badge&title_color=FFFFFF&text_color=FFFFFF&bg_color=1B1B1B&border_color=121111&show_icons=true&icon_color=FFFFFF&rank_icon=github"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahtanpng&style=for-the-badge&title_color=FFFFFF&text_color=FFFFFF&bg_color=1B1B1B&border_color=121111&show_icons=true"/>
 </p>
