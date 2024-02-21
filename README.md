@@ -47,8 +47,3 @@ I'm currently studying to be a ${dev.work}`)
 - [Explorando o Flutter: Um Guia Básico para Iniciantes](https://dev.to/nahtanpng/explorando-o-flutter-um-guia-basico-para-iniciantes-55l6)
 - [Gerenciamento de Estado no Flutter, aprenda de uma vez!](https://dev.to/nahtanpng/gerenciamento-de-estado-no-flutter-aprenda-de-uma-vez-51k8)
 <!-- BLOG-POST-LIST:END -->
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/?username=nahtanpng&style=for-the-badge&title_color=FFFFFF&text_color=FFFFFF&bg_color=1B1B1B&border_color=121111&show_icons=true&icon_color=FFFFFF&rank_icon=github"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahtanpng&style=for-the-badge&title_color=FFFFFF&text_color=FFFFFF&bg_color=1B1B1B&border_color=121111&show_icons=true"/>
-</p>
