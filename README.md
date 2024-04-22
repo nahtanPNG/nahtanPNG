@@ -15,7 +15,7 @@ I'm currently studying to be a ${dev.work}`)
 ## **About me:**
 * Nathan Ferreira, 18 years
 * Full Stack Software Engineer
-* Currently studying Laravel, React and Docker <br>
+* Currently studying React.js and Node.js <br>
 
 <a href="https://linkedin.com/in/devnahtan"><img src="https://img.shields.io/badge/linkedin-1B1B1B?style=for-the-badge&logoColor=FFFFFF&logo=linkedin"/></a>
 <a href="https://dev.to/nahtanpng"><img src="https://img.shields.io/badge/dev.to-1B1B1B?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
@@ -38,6 +38,7 @@ I'm currently studying to be a ${dev.work}`)
 <img src="https://img.shields.io/badge/figma-1B1B1B?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/git-1B1B1B?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/github-1B1B1B?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/docker-1B1B1B?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ## **Last Blog Posts:**
