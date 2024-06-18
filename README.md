@@ -13,7 +13,7 @@ I'm currently studying to be a ${dev.work}`)
 <!-- <img src="https://github.com/nahtanPNG/nahtanPNG/assets/93049899/47298db5-3ab5-4d9e-8c2c-b96886531ea8"/> -->
 
 ## **About me:**
-* Nathan Ferreira, 18 years
+* Nathan Ferreira, 19 years
 * Full Stack Software Engineer
 * Currently studying JavaScript Stack (Node.Js, React.Js, Typescript) <br>
 
