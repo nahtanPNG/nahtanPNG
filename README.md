@@ -34,6 +34,7 @@ I'm currently studying to be a ${dev.work}`)
 <img src="https://img.shields.io/badge/prisma-1B1B1B?style=for-the-badge&logo=prisma&logoColor=white"/>
 <img src="https://img.shields.io/badge/firebase-1B1B1B?style=for-the-badge&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/react-1B1B1B?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwindcss-1B1B1B?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/node.js-1B1B1B?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/express-1B1B1B?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/bootstrap-1B1B1B?style=for-the-badge&logo=bootstrap&logoColor=white"/>
