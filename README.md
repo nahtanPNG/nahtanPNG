@@ -14,7 +14,7 @@ I'm currently studying to be a ${dev.work}`)
 
 ## **About me:**
 * Nathan Ferreira, 19 years
-* Full Stack Software Engineer
+* Full Stack Developer
 * Currently studying JavaScript Stack (Node.Js, React.Js, Typescript) <br>
 
 <a href="https://linkedin.com/in/devnahtan"><img src="https://img.shields.io/badge/linkedin-1B1B1B?style=for-the-badge&logoColor=FFFFFF&logo=linkedin"/></a>
