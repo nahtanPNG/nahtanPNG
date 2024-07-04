@@ -30,10 +30,12 @@ I'm currently studying to be a ${dev.work}`)
 <img src="https://img.shields.io/badge/csharp-1B1B1B?style=for-the-badge&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%2B%2B-1B1B1B?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/MYSQL-1B1B1B?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mongodb-1B1B1B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/prisma-1B1B1B?style=for-the-badge&logo=prisma&logoColor=white"/>
 <img src="https://img.shields.io/badge/firebase-1B1B1B?style=for-the-badge&logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/java-1B1B1B?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/dart-1B1B1B?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/FLUTTER-1B1B1B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/react-1B1B1B?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/node.js-1B1B1B?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/express-1B1B1B?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/bootstrap-1B1B1B?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/figma-1B1B1B?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/git-1B1B1B?style=for-the-badge&logo=git&logoColor=white"/>
