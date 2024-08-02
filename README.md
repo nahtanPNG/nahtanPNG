@@ -10,7 +10,8 @@ work: 'FullStack developer'
 console.log(`Hi! I'm ${dev.name}, I'm ${dev.age} years old and i'm from ${dev.nacionality}! 
 I'm currently studying to be a ${dev.work}`)
 ``` -->
-<img src="https://github.com/user-attachments/assets/3c320011-742e-4846-b7e0-6491f4073fb2"/> 
+
+<img src="https://github.com/user-attachments/assets/1130e590-ec71-46c1-988d-893256cc3345"/> 
 <div align="center">
 <a href="https://linkedin.com/in/devnahtan"><img src="https://img.shields.io/badge/linkedin-09090B?style=for-the-badge&logoColor=FFFFFF&logo=linkedin"/></a>
 <a href="https://dev.to/nahtanpng"><img src="https://img.shields.io/badge/dev.to-09090B?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
