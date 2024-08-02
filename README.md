@@ -13,7 +13,7 @@ I'm currently studying to be a ${dev.work}`)
 
 <img src="https://github.com/user-attachments/assets/1130e590-ec71-46c1-988d-893256cc3345"/> 
 <div align="center">
-<a href="https://linkedin.com/in/devnahtan"><img src="https://img.shields.io/badge/linkedin-09090B?style=for-the-badge&logoColor=FFFFFF&logo=linkedin"/></a>
+<a href="https://linkedin.com/in/devnahtan"><img src="https://img.shields.io/badge/linkedin-6F59A1?style=for-the-badge&logoColor=FFFFFF&logo=linkedin"/></a>
 <a href="https://dev.to/nahtanpng"><img src="https://img.shields.io/badge/dev.to-09090B?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 <a href="mailto:nathan.ferreiira.contato@gmail.com"><img src="https://img.shields.io/badge/email-09090B?logo=gmail&style=for-the-badge&logoColor=FFFFFF"/></a>
 </div>
@@ -25,22 +25,22 @@ I'm currently studying to be a ${dev.work}`)
   
 ## **Skills:**
 <p align="left"> 
-<img src="https://img.shields.io/badge/HTML-0F0F11?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-6F59A1?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-09090B?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-09090B?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Javascript-0F0F11?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-6F59A1?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%2B%2B-09090B?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/MYSQL-09090B?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/mongodb-09090B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/prisma-0F0F11?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/prisma-6F59A1?style=for-the-badge&logo=prisma&logoColor=white"/>
 <img src="https://img.shields.io/badge/firebase-09090B?style=for-the-badge&logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/react-0F0F11?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwindcss-0F0F11?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/node.js-0F0F11?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/express-0F0F11?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/react-6F59A1?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwindcss-6F59A1?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/node.js-6F59A1?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/express-6F59A1?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/bootstrap-09090B?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/figma-09090B?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/git-0F0F11?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-6F59A1?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/github-09090B?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/docker-09090B?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
