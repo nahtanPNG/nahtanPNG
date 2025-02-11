@@ -21,7 +21,7 @@ I'm currently studying to be a ${dev.work}`)
 ## **About me:**
 * Nathan Ferreira, 19 years
 * Full Stack Developer
-* Currently studying JavaScript Stack (Node.Js, React.Js, Typescript) <br>
+* Currently working with Nest.Js, React.Js, TypeScript and Docker
   
 ## **Skills:**
 <p align="left"> 
@@ -37,6 +37,7 @@ I'm currently studying to be a ${dev.work}`)
 <img src="https://img.shields.io/badge/react-6F59A1?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwindcss-6F59A1?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/node.js-6F59A1?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/nest.js-6F59A1?style=for-the-badge&logo=nestjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/express-6F59A1?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/bootstrap-09090B?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/figma-09090B?style=for-the-badge&logo=figma&logoColor=white"/>
@@ -45,10 +46,11 @@ I'm currently studying to be a ${dev.work}`)
 <img src="https://img.shields.io/badge/docker-09090B?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
+<!--
 ## **Last Blog Posts:**
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START 
 - [WakaTime: Uma Forma de Aumentar Sua Produtividade e Gerenciar Seu Tempo](https://dev.to/nahtanpng/wakatime-uma-forma-de-aumentar-sua-produtividade-e-gerenciar-seu-tempo-568p)
 - [Explorando o Flutter: Um Guia Básico para Iniciantes](https://dev.to/nahtanpng/explorando-o-flutter-um-guia-basico-para-iniciantes-55l6)
 - [Gerenciamento de Estado no Flutter, aprenda de uma vez!](https://dev.to/nahtanpng/gerenciamento-de-estado-no-flutter-aprenda-de-uma-vez-51k8)
-<!-- BLOG-POST-LIST:END -->
+ BLOG-POST-LIST:END -->
