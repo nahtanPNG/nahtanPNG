@@ -31,6 +31,7 @@ I'm currently studying to be a ${dev.work}`)
 <img src="https://img.shields.io/badge/PHP-09090B?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-C7EC8D?style=for-the-badge&logo=javascript&logoColor=09090B"/>
 <img src="https://img.shields.io/badge/C%2B%2B-09090B?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PYTHON-C7EC8D?style=for-the-badge&logo=python&logoColor=09090B"/>
 <img src="https://img.shields.io/badge/MYSQL-09090B?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/mongodb-09090B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/prisma-C7EC8D?style=for-the-badge&logo=prisma&logoColor=09090B"/>
