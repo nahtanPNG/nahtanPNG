@@ -16,7 +16,7 @@ I'm currently studying to be a ${dev.work}`)
 <div align="center">
 <a href="https://linkedin.com/in/devnahtan"><img src="https://img.shields.io/badge/linkedin-C7EC8D?style=for-the-badge&logoColor=white&logo=linkedin"/></a>
 <a href="https://dev.to/nahtanpng"><img src="https://img.shields.io/badge/dev.to-09090B?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
-<a href="mailto:nathan.ferreiira.contato@gmail.com"><img src="https://img.shields.io/badge/email-09090B?logo=gmail&style=for-the-badge&logoColor=FFFFFF"/></a>
+<a href="mailto:nathan.ferreiira.dev@gmail.com"><img src="https://img.shields.io/badge/email-09090B?logo=gmail&style=for-the-badge&logoColor=FFFFFF"/></a>
 </div>
 
 ## **About me:**
