@@ -23,6 +23,7 @@ I'm currently studying to be a ${dev.work}`)
 * Nathan Ferreira, 19 years
 * Full Stack Developer
 * Currently working with Nest.Js, React.Js, TypeScript and Docker
+* Currently studing Python, Cloud Computing, Docker and Software Architecture
   
 ## **Skills:**
 <p align="left"> 
