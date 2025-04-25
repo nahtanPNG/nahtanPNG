@@ -1,12 +1,12 @@
 ```bash
 nathan@github:~$ infofetch
 
-            @@@%%%%%%%%%@@            nathan@github  
-         @@@%%%%%%%%%#######%@@       ------------- 
-       @@@@%%%%%%%######?######%@     Role: Full Stack Developer
-      @@@@%%%%%%%#######:########%@   Uptime: 19
-    @@@@@%%%%%%#########:??#######%   Stack: Nest.js, React.js, TS, Docker
-    @@@%%%%%####???###?+:??####?###@  Learning: Python, Cloud, Software Arch
+            @@@%%%%%%%%%@@                 nathan@github-info
+         @@@%%%%%%%%%#######%@@            ------------------
+       @@@@%%%%%%%######?######%@          Role: Full Stack Developer
+      @@@@%%%%%%%#######:########%@        Uptime: 19 years
+    @@@@@%%%%%%#########:??#######%        Stack: Nest.js, React.js, TS, Docker
+    @@@%%%%%####???###?+:??####?###@       Learning: Python, Cloud, Software Arch
    @@@%%%%%%#?+???###?:+?##??###?##@
  @??%@%%%##????????++:;+?+????????#@
  #  ;?%#?+; ..::+?+ ::;++++++?+???# 
@@ -17,7 +17,7 @@ nathan@github:~$ infofetch
  @%# ; ;??;;+ ;???+;;:..::.:+?% 
   @???;;?+;;;+ ;:;;......;;;#@ 
   %##?++?+++;+ ??% @%%@@@@       
-  @_:?_:+_:_:#%                         
+  @_:?_:+_:_:#%
 ```
 <p align="left"> 
 <img src="https://img.shields.io/badge/HTML-C7EC8D?style=for-the-badge&logo=html5&logoColor=09090B"/>
