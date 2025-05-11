@@ -1,4 +1,4 @@
-```bash
+```
 nathan@github:~$ infofetch
 
             @@@%%%%%%%%%@@                 nathan@github-info
