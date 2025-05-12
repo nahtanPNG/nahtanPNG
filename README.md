@@ -19,7 +19,7 @@ nathan@github:~$ infofetch
   %##?++?+++;+ ??% @%%@@@@       
   @_:?_:+_:_:#%
 ```
-- currently working with **Nest.js** & **TypeScript**
+- currently working with **Nest.js**, **React** & **TypeScript**
 - I'm deepening my knowledge in cloud computing, containers, software architecture, and automated testing, aiming to build robust and well-structured applications.
 - in my free time, I enjoy:
   - messing with **Python**'s scripts, creating [discord bots](https://github.com/nahtanPNG/CheapoBot) and some [scripts](https://github.com/nahtanPNG/xml-to-excel)
