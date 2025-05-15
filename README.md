@@ -4,7 +4,7 @@ nathan@github:~$ infofetch
             @@@%%%%%%%%%@@                 nathan@github-info
          @@@%%%%%%%%%#######%@@            ------------------
        @@@@%%%%%%%######?######%@          Role: Full Stack Developer
-      @@@@%%%%%%%#######:########%@        Uptime: 19 years
+      @@@@%%%%%%%#######:########%@        Uptime: 20 years
     @@@@@%%%%%%#########:??#######%        Stack: Nest.js, React.js, TS, Docker
     @@@%%%%%####???###?+:??####?###@       Learning: Python, Cloud, Software Arch
    @@@%%%%%%#?+???###?:+?##??###?##@
