@@ -19,8 +19,14 @@ nathan@github:~$ infofetch
   %##?++?+++;+ ??% @%%@@@@       
   @_:?_:+_:_:#%
 ```
+
+<a href="https://discord.com/users/457725135940616202" target="_blank">
+ <img width="40%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/457725135940616202?bg=1f1f1f&borderRadius=5px">
+</a>
+
 - currently working with **Nest.js**, **React** & **TypeScript**
 - I'm deepening my knowledge in cloud computing, containers, software architecture, and automated testing, aiming to build robust and well-structured applications.
 - in my free time, I enjoy:
   - messing with **Python**'s scripts, creating [discord bots](https://github.com/nahtanPNG/CheapoBot) and some [scripts](https://github.com/nahtanPNG/xml-to-excel)
   - create some games stuff with **Lua**
+
