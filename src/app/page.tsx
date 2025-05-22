@@ -26,18 +26,21 @@ export default function Home() {
           <div className="flex items-center justify-center gap-4">
             <a
               href="mailto:nathan.ferreiira.dev@gmail.com"
+              target="blank"
               className="text-green-300 hover:text-green-400 transition-colors hover:scale-110"
             >
               <PaperPlaneTiltIcon size={20} />
             </a>
             <a
               href="https://github.com/nahtanpng"
+              target="blank"
               className="text-green-300 hover:text-green-400 transition-colors hover:scale-110"
             >
               <GithubLogoIcon size={20} />
             </a>
             <a
               href="https://discord.com/users/457725135940616202"
+              target="blank"
               className="text-green-300 hover:text-green-400 transition-colors hover:scale-110"
             >
               <DiscordLogoIcon size={20} />
