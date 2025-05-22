@@ -21,7 +21,7 @@ nathan@github:~$ infofetch
 ```
 
 <a href="https://discord.com/users/457725135940616202" target="_blank">
- <img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/457725135940616202?bg=1f1f1f&borderRadius=5px">
+ <img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/457725135940616202?idleMessage=Probably%20coding%20something&theme=dark">
 </a>
 
 - currently working with **Nest.js**, **React** & **TypeScript**
