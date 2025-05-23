@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <div className="crt">
       <main className="min-h-screen bg-black flex items-center justify-center p-8">
-        <div className="text-center">
+        <div className="text-center typewriter">
           <h1 className="text-5xl font-bold text-green-400 mb-2 glow">
             Hey, I&apos;m <span className="">Nathan</span>!
           </h1>

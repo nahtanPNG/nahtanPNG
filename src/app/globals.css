@@ -67,11 +67,6 @@ body {
 
 /* Phosphor Glow */
 .glow {
-  text-shadow: 
-    0 0 5px rgba(51, 255, 51, 0.8),
-    0 0 10px rgba(51, 255, 51, 0.6),
-    0 0 15px rgba(51, 255, 51, 0.4),
-    0 0 20px rgba(51, 255, 51, 0.2);
 }
 
 /* Animations */
@@ -166,4 +161,28 @@ body {
   font-family: var(--font-jetbrains-mono), 'JetBrains Mono', monospace;
     color: #33ff33;
   text-rendering: optimizeSpeed;
+}
+
+/* Typewriter */
+
+.typewriter h1 {
+  overflow: hidden; 
+  border-right: .15em solid #06d16b; 
+  white-space: nowrap; 
+  margin: 0 auto; 
+  letter-spacing: .15em;
+  animation: 
+    typing 3s steps(40, end),
+    blink-caret .75s step-end infinite,
+    textShadow 1.6s infinite;
+}
+
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: #06d16b; }
 }
