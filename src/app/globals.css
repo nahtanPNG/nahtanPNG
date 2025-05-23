@@ -62,7 +62,7 @@ body {
   opacity: 0;
   z-index: 2;
   pointer-events: none;
-  animation: flicker 0.15s infinite;
+  animation: flicker 0.10s infinite;
 }
 
 /* Phosphor Glow */
@@ -150,13 +150,10 @@ body {
   }
 }
 
-
-/* Apply chromatic aberration to main title */
 h1 {
   animation: textShadow 1.6s infinite;
 }
 
-/* Screen curvature effect */
 .crt {
   border-radius: 20px;
   box-shadow: 
@@ -167,7 +164,6 @@ h1 {
 
 body {
   font-family: var(--font-jetbrains-mono), 'JetBrains Mono', monospace;
-  color: #33ff33;
+    color: #33ff33;
   text-rendering: optimizeSpeed;
 }
-

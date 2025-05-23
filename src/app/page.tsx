@@ -20,7 +20,9 @@ export default function Home() {
 
           <div className="flex items-center justify-center gap-2 mb-8">
             <div className="w-3 h-3 bg-green-400 rounded-full animate-pulse glow"></div>
-            <span className="text-green-300 text-sm opacity-80">online</span>
+            <span className="text-green-300 text-sm opacity-80">
+              site in development
+            </span>
           </div>
 
           <div className="flex items-center justify-center gap-4">
