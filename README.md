@@ -19,12 +19,8 @@ nathan@github:~$ infofetch
   %##?++?+++;+ ??% @%%@@@@       
   @_:?_:+_:_:#%
 ```
-[![Gmail Badge](https://img.shields.io/badge/nathan.ferreiira.dev%40gmail.com-%231A1C1F?style=flat-square&logo=gmail&logoColor=white)](mailto:nathan.ferreiira.dev@gmail.com)
-
-<a href="https://discord.com/users/457725135940616202" target="_blank">
- <img width="40%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/457725135940616202?idleMessage=Probably%20coding%20something&theme=dark">
-</a>
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/457725135940616202?hideActivity=true&hideDecoration=true)](https://discord.com/users/457725135940616202)
+[![Gmail Badge](https://github.com/user-attachments/assets/709a3038-abdf-4eed-83ee-eb80c3800ace)](mailto:nathan.ferreiira.dev@gmail.com)
 - currently working with **Nest.js**, **React** & **TypeScript**
 - I'm deepening my knowledge in cloud computing, containers, software architecture, and automated testing.
 - in my free time, I enjoy:
