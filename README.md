@@ -19,9 +19,10 @@ nathan@github:~$ infofetch
   %##?++?+++;+ ??% @%%@@@@       
   @_:?_:+_:_:#%
 ```
+[![Gmail Badge](https://img.shields.io/badge/nathan.ferreiira.dev%40gmail.com-%231A1C1F?style=flat-square&logo=gmail&logoColor=white)](mailto:nathan.ferreiira.dev@gmail.com)
 
 <a href="https://discord.com/users/457725135940616202" target="_blank">
- <img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/457725135940616202?idleMessage=Probably%20coding%20something&theme=dark">
+ <img width="40%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/457725135940616202?idleMessage=Probably%20coding%20something&theme=dark">
 </a>
 
 - currently working with **Nest.js**, **React** & **TypeScript**
