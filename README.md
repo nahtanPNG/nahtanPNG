@@ -11,11 +11,11 @@ nathan@github:~$ infofetch
  #  ;?%#?+; ..::+?+ ::;++++++?+???#        Frameworks: Nest, Next, TailwindCss & Express
  %  :?%;;;:  ....:#+ :;+++????+???@        DB: MySql, MongoDB & Firebase
  #;;+??+++:   ...;##: ;;;++???++?%         DevOps: Docker & AWS
- %#%+::++?#+;:::;?##+ ;;;;++??++#     
- %?% : :???+?++???######?+;;+??#   
- @%# ; ;??;;+ ;???+;;:..::.:+?% 
-  @???;;?+;;;+ ;:;;......;;;#@ 
-  %##?++?+++;+ ??% @%%@@@@       
+ %#%+::++?#+;:::;?##+ ;;;;++??++#
+ %?% : :???+?++???######?+;;+??#
+ @%# ; ;??;;+ ;???+;;:..::.:+?%
+  @???;;?+;;;+ ;:;;......;;;#@
+  %##?++?+++;+ ??% @%%@@@@
   @_:?_:+_:_:#%
 ```
 
@@ -28,9 +28,8 @@ nathan@github:~$ infofetch
 - in my free time, I enjoy:
   - messing with **Python**'s scripts, creating [discord bots](https://github.com/nahtanPNG/CheapoBot) and some [scripts](https://github.com/nahtanPNG/xml-to-excel)
   - create some games stuff with **Lua**
-<br>
-<br>
-<a href="mailto:nathan.ferreiira.dev@gmail.com" target="_blank">
- <img align="right" alt="Gmail Badge" src="https://github.com/user-attachments/assets/c3a378ce-2f0e-4735-98df-4cc19ed93110">
-</a>
-
+    <br>
+    <br>
+    <a href="mailto:nathan.ferreiira.dev@gmail.com" target="_blank">
+    <img align="right" alt="Gmail Badge" src="https://github.com/user-attachments/assets/c3a378ce-2f0e-4735-98df-4cc19ed93110">
+    </a>
