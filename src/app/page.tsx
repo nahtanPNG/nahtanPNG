@@ -2,7 +2,7 @@
 
 import AboutCard from "./components/AboutCard";
 import ProjectCard from "./components/ProjectCard";
-import MusicCard from "./components/MusicCard";
+import MusicCard from "./components/GithubCard";
 import ContactCard from "./components/ContactCard";
 import LinkedinCard from "./components/LinkedinCard";
 import ProjectContactCard from "./components/ProjectContactCard";

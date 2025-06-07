@@ -1,15 +1,15 @@
-import { LinkedinLogoIcon } from "@phosphor-icons/react";
+import { GithubLogoIcon } from "@phosphor-icons/react";
 
-export default function LinkedinCard() {
+export default function MusicCard() {
   return (
     <div className="bg-[#66538D] rounded-2xl p-6 flex flex-col items-center justify-center shadow-lg border border-[#66538D] cursor-pointer">
       <a
-        href="https://linkedin.com/in/devnahtan"
+        href="https://github.com/nahtanpng"
         target="_blank"
         rel="noopener noreferrer"
         className="flex flex-col items-center"
       >
-        <LinkedinLogoIcon size={64} />
+        <GithubLogoIcon size={64} />
       </a>
     </div>
   );
