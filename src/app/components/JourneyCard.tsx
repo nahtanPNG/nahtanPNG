@@ -6,7 +6,7 @@ export default function ProjectCard() {
       <div>
         <h2 className="font-bold text-lg mb-1 text-primary">Minha Jornada</h2>
         <p className="text-sm text-foreground opacity-80 mb-4">
-          Um breve relato sobre minha jornada no desenvolvimento web, iniciada
+          Um breve relato sobre minha jornada no mundo da programação, iniciada
           com paixão e curiosidade.
         </p>
       </div>

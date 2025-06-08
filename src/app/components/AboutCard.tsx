@@ -4,7 +4,7 @@ import Card from "./Card";
 export default function AboutCard() {
   return (
     <Card className="card-glass col-span-1 md:col-span-2 p-12 flex flex-col justify-center items-start">
-      <div className="flex items-center gap-4 mb-2">
+      <div className="flex items-center gap-4 mb-3">
         <Image
           src="/avatar.png"
           alt="Avatar"
