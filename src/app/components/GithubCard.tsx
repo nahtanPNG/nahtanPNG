@@ -3,7 +3,10 @@ import { FaGithub } from "react-icons/fa";
 
 export default function GithubCard() {
   return (
-    <Card className="p-6 flex flex-col items-center justify-center bg-[#66538D] border-[#66538D] cursor-pointer">
+    <Card
+      variant="purple"
+      className="p-6 flex flex-col items-center justify-center bg-[#1a1a1ab3] hover:bg-[#66538D] transition duration-300 cursor-pointer"
+    >
       <a
         href="https://github.com/nahtanpng"
         target="_blank"

@@ -27,7 +27,7 @@ export default function ContactCard() {
         {experiences.map((exp, i) => (
           <div
             key={i}
-            className="rounded-xl bg-[#151515] border border-zinc-800/80 p-4 shadow-inner flex flex-col gap-1 transition hover:scale-[1.025] hover:shadow-lg hover:border-[#66538D]"
+            className="cursor-pointer rounded-xl bg-[#151515] border border-zinc-800/80 p-4 shadow-inner flex flex-col gap-1 transition hover:scale-[1.025] hover:shadow-lg hover:border-[#66538D]"
           >
             <div className="flex items-center gap-2">
               <span className="font-semibold text-foreground text-base">

@@ -3,9 +3,14 @@ import { ReactNode, useRef } from "react";
 interface CardProps {
   children: ReactNode;
   className?: string;
+  variant?: string;
 }
 
-export default function Card({ children, className = "" }: CardProps) {
+export default function Card({
+  children,
+  className = "",
+  variant = "black",
+}: CardProps) {
   const cardRef = useRef<HTMLDivElement>(null);
 
   function handleMouseMove(e: React.MouseEvent<HTMLDivElement, MouseEvent>) {
@@ -21,7 +26,7 @@ export default function Card({ children, className = "" }: CardProps) {
   return (
     <div
       ref={cardRef}
-      className={`rounded-2xl shadow-lg border border-gray-200 dark:border-zinc-700 relative overflow-hidden ${className}`}
+      className={`rounded-2xl shadow-lg border ${variant === "purple" ? "dark:border-[#66538D]" : "dark:border-zinc-700"} relative overflow-hidden ${className}`}
       onMouseMove={handleMouseMove}
     >
       <div className="card-glow" />
