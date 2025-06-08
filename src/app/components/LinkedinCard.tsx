@@ -1,16 +1,17 @@
-import { LinkedinLogoIcon } from "@phosphor-icons/react";
+import Card from "./Card";
+import { FaLinkedin } from "react-icons/fa";
 
 export default function LinkedinCard() {
   return (
-    <div className="bg-[#66538D] rounded-2xl p-6 flex flex-col items-center justify-center shadow-lg border border-[#66538D] cursor-pointer">
+    <Card className="p-6 flex flex-col items-center justify-center bg-[#66538D] border-[#66538D] cursor-pointer">
       <a
         href="https://linkedin.com/in/devnahtan"
         target="_blank"
         rel="noopener noreferrer"
         className="flex flex-col items-center"
       >
-        <LinkedinLogoIcon size={64} />
+        <FaLinkedin size={64} />
       </a>
-    </div>
+    </Card>
   );
 }

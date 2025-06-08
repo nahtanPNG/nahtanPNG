@@ -1,9 +1,9 @@
 "use client";
 
 import AboutCard from "./components/AboutCard";
-import ProjectCard from "./components/ProjectCard";
+import ProjectCard from "./components/JourneyCard";
 import MusicCard from "./components/GithubCard";
-import ContactCard from "./components/ContactCard";
+import ContactCard from "./components/ExperiencesCard";
 import LinkedinCard from "./components/LinkedinCard";
 import ProjectContactCard from "./components/ProjectContactCard";
 import MapCard from "./components/MapCard";

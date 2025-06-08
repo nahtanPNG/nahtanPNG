@@ -244,3 +244,35 @@
 .animate-fade-in {
   animation: fade-in 0.8s ease-out forwards;
 }
+
+.card-glass {
+  background: rgba(26, 26, 26, 0.7); /* cor base dos cards com transparência */
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  position: relative;
+  overflow: hidden;
+  transition: box-shadow 0.3s;
+}
+.card-glass .card-glow {
+  pointer-events: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: radial-gradient(
+    circle at var(--x, 50%) var(--y, 50%),
+    #66538d55 0%,
+    transparent 60%
+  );
+  opacity: 0;
+  transition: opacity 0.3s;
+  z-index: 1;
+}
+.card-glass:hover .card-glow {
+  opacity: 1;
+}
+.card-glass > * {
+  position: relative;
+  z-index: 2;
+}

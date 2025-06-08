@@ -1,8 +1,10 @@
+import Card from "./Card";
+
 export default function ProjectCard() {
   return (
-    <div className="bg-card rounded-2xl p-6 flex flex-col justify-between shadow-lg border border-gray-200 dark:border-zinc-700">
+    <Card className="card-glass p-6 flex flex-col justify-between">
       <div>
-        <h2 className="font-bold text-lg mb-1 text-primary">Como está indo?</h2>
+        <h2 className="font-bold text-lg mb-1 text-primary">Minha Jornada</h2>
         <p className="text-sm text-foreground opacity-80 mb-4">
           Um breve relato sobre minha jornada no desenvolvimento web, iniciada
           com paixão e curiosidade.
@@ -14,6 +16,6 @@ export default function ProjectCard() {
         </button>
         <span className="text-xs text-muted-foreground">Jun 2025</span>
       </div>
-    </div>
+    </Card>
   );
 }
