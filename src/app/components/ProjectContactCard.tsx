@@ -1,9 +1,4 @@
-import {
-  GithubLogoIcon,
-  DiscordLogoIcon,
-  PaperPlaneTiltIcon,
-  LinkedinLogoIcon,
-} from "@phosphor-icons/react";
+import { PaperPlaneTiltIcon } from "@phosphor-icons/react";
 import Card from "./Card";
 
 export default function ProjectContactCard() {
@@ -23,7 +18,6 @@ export default function ProjectContactCard() {
         >
           <PaperPlaneTiltIcon size={20} /> Contate-me
         </a>
-        
       </div>
     </Card>
   );

@@ -1,9 +1,9 @@
 "use client";
 
 import AboutCard from "./components/AboutCard";
-import ProjectCard from "./components/JourneyCard";
+import JourneyCard from "./components/JourneyCard";
 import GithubCard from "./components/GithubCard";
-import ContactCard from "./components/ExperiencesCard";
+import ExperiencesCard from "./components/ExperiencesCard";
 import LinkedinCard from "./components/LinkedinCard";
 import ProjectContactCard from "./components/ProjectContactCard";
 import MapCard from "./components/MapCard";
@@ -36,9 +36,9 @@ export default function Home() {
         <div className="w-full grid grid-cols-1 md:grid-cols-3 gap-6 animate-fade-in mt-0">
           <AboutCard />
           <MapCard />
-          <ProjectCard />
+          <JourneyCard />
           <GithubCard />
-          <ContactCard />
+          <ExperiencesCard />
           <LinkedinCard />
           <ProjectContactCard />
         </div>

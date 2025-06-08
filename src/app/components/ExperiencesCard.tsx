@@ -4,14 +4,14 @@ const experiences = [
   {
     company: "OSS Brasil",
     title: "Desenvolvedor full stack",
-    period: "ago 2024 - Presente · São Paulo",
+    period: "ago 2024 - Atual · São Paulo",
     description:
       "Desenvolvimento completo de aplicações web, do banco de dados à interface, focando em performance, arquitetura limpa e integração de APIs.",
   },
   {
     company: "OSS Brasil",
     title: "Desenvolvedor web front end",
-    period: "jan 2024 - Presente · São Paulo",
+    period: "jan 2024 - Atual · São Paulo",
     description:
       "Transformação de protótipos em sites funcionais, automação de processos e integração de ferramentas para clientes da Atuant.",
   },
