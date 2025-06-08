@@ -2,7 +2,7 @@
 
 import AboutCard from "./components/AboutCard";
 import ProjectCard from "./components/JourneyCard";
-import MusicCard from "./components/GithubCard";
+import GithubCard from "./components/GithubCard";
 import ContactCard from "./components/ExperiencesCard";
 import LinkedinCard from "./components/LinkedinCard";
 import ProjectContactCard from "./components/ProjectContactCard";
@@ -37,7 +37,7 @@ export default function Home() {
           <AboutCard />
           <MapCard />
           <ProjectCard />
-          <MusicCard />
+          <GithubCard />
           <ContactCard />
           <LinkedinCard />
           <ProjectContactCard />
