@@ -1,55 +1,49 @@
 "use client";
 
-import {
-  DiscordLogoIcon,
-  PaperPlaneTiltIcon,
-  GithubLogoIcon,
-} from "@phosphor-icons/react";
+import AboutCard from "./components/AboutCard";
+import JourneyCard from "./components/JourneyCard";
+import GithubCard from "./components/GithubCard";
+import ExperiencesCard from "./components/ExperiencesCard";
+import LinkedinCard from "./components/LinkedinCard";
+import ProjectContactCard from "./components/ProjectContactCard";
+import MapCard from "./components/MapCard";
+import SettingsCard from "./components/SettingsCard";
+import FooterSocial from "./components/FooterSocial";
+
+import { useState, useEffect } from "react";
 
 export default function Home() {
+  const [language, setLanguage] = useState("pt");
+
+  useEffect(() => {
+    const storedLang =
+      typeof window !== "undefined" && localStorage.getItem("lang");
+    if (storedLang) setLanguage(storedLang);
+  }, []);
+
+  useEffect(() => {
+    if (typeof window !== "undefined") {
+      localStorage.setItem("lang", language);
+    }
+  }, [language]);
+
   return (
-    <div className="crt">
-      <main className="min-h-screen bg-black flex items-center justify-center p-8">
-        <div className="text-center typewriter">
-          <h1 className="text-5xl font-bold text-green-400 mb-2 glow">
-            Hey, I&apos;m <span className="">Nathan</span>!
-          </h1>
-          <p className="text-green-300 text-lg mb-6 opacity-90">
-            Software Developer
-          </p>
-
-          <div className="flex items-center justify-center gap-2 mb-8">
-            <div className="w-3 h-3 bg-green-400 rounded-full animate-pulse glow"></div>
-            <span className="text-green-300 text-sm opacity-80">
-              site in development
-            </span>
-          </div>
-
-          <div className="flex items-center justify-center gap-4">
-            <a
-              href="mailto:nathan.ferreiira.dev@gmail.com"
-              target="blank"
-              className="text-green-300 hover:text-green-400 transition-colors hover:scale-110"
-            >
-              <PaperPlaneTiltIcon size={20} />
-            </a>
-            <a
-              href="https://github.com/nahtanpng"
-              target="blank"
-              className="text-green-300 hover:text-green-400 transition-colors hover:scale-110"
-            >
-              <GithubLogoIcon size={20} />
-            </a>
-            <a
-              href="https://discord.com/users/457725135940616202"
-              target="blank"
-              className="text-green-300 hover:text-green-400 transition-colors hover:scale-110"
-            >
-              <DiscordLogoIcon size={20} />
-            </a>
-          </div>
+    <main className="min-h-screen flex flex-col items-center justify-center p-6">
+      <div className="w-full max-w-5xl">
+        <div className="flex justify-end">
+          <SettingsCard onOpen={() => {}} />
         </div>
-      </main>
-    </div>
+        <div className="w-full grid grid-cols-1 md:grid-cols-3 gap-6 animate-fade-in mt-0">
+          <AboutCard />
+          <MapCard />
+          <JourneyCard />
+          <GithubCard />
+          <ExperiencesCard />
+          <LinkedinCard />
+          <ProjectContactCard />
+        </div>
+        <FooterSocial />
+      </div>
+    </main>
   );
 }

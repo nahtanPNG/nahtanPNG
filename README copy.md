@@ -12,11 +12,11 @@ nathan@github:~$ infofetch
  #  ;?%#?+; ..::+?+ ::;++++++?+???#        Frameworks: Nest, Next, TailwindCss & Express
  %  :?%;;;:  ....:#+ :;+++????+???@        DB: MySql, MongoDB & Firebase
  #;;+??+++:   ...;##: ;;;++???++?%         DevOps: Docker & AWS
- %#%+::++?#+;:::;?##+ ;;;;++??++#     
- %?% : :???+?++???######?+;;+??#   
- @%# ; ;??;;+ ;???+;;:..::.:+?% 
-  @???;;?+;;;+ ;:;;......;;;#@ 
-  %##?++?+++;+ ??% @%%@@@@       
+ %#%+::++?#+;:::;?##+ ;;;;++??++#
+ %?% : :???+?++???######?+;;+??#
+ @%# ; ;??;;+ ;???+;;:..::.:+?%
+  @???;;?+;;;+ ;:;;......;;;#@
+  %##?++?+++;+ ??% @%%@@@@
   @_:?_:+_:_:#%
 ```
 
@@ -29,4 +29,3 @@ nathan@github:~$ infofetch
 - in my free time, I enjoy:
   - messing with **Python**'s scripts, creating [discord bots](https://github.com/nahtanPNG/CheapoBot) and some [scripts](https://github.com/nahtanPNG/xml-to-excel)
   - create some games stuff with **Lua**
-
