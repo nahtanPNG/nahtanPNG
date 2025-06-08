@@ -1,12 +1,18 @@
 import {
   DiscordLogoIcon,
   GithubLogoIcon,
+  Heart,
   LinkedinLogoIcon,
 } from "@phosphor-icons/react";
 
 export default function FooterSocial() {
   return (
-    <footer className="mt-2 flex justify-end gap-3 animate-fade-in">
+    <footer className="mt-2 flex justify-end items-center gap-3 animate-fade-in">
+      <div className="flex items-center gap-2 text-sm text-muted-foreground animate-fade-in">
+        <span>Feito com</span>
+        <Heart size={16} color="#66538d" className="animate-pulse" />
+        <span>por Nathan © {new Date().getFullYear()}</span>
+      </div>
       <a
         href="https://github.com/nahtanpng"
         target="_blank"
