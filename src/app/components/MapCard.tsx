@@ -100,9 +100,7 @@ const darkMapStyle = [
 export default function MapCard() {
   return (
     <div className="bg-card rounded-2xl flex flex-col items-center justify-center shadow-lg border border-gray-200 dark:border-zinc-700 overflow-hidden h-full min-h-[120px]">
-      <LoadScript
-        googleMapsApiKey={process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY || ""}
-      >
+      <LoadScript googleMapsApiKey={process.env.GOOGLE_MAPS_API_KEY || ""}>
         <GoogleMap
           mapContainerStyle={{ width: "100%", height: "100%" }}
           center={center}
