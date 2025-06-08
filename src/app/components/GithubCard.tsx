@@ -5,7 +5,7 @@ export default function GithubCard() {
   return (
     <Card
       variant="purple"
-      className="p-6 flex flex-col items-center justify-center bg-[#1a1a1ab3] hover:bg-[#66538D] transition duration-300 cursor-pointer"
+      className="p-6 flex flex-col items-center justify-center bg-[#1a1a1ab3] hover:bg-[#66538d55] transition duration-300 cursor-pointer"
     >
       <a
         href="https://github.com/nahtanpng"

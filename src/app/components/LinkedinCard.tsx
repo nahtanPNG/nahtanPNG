@@ -5,7 +5,7 @@ export default function LinkedinCard() {
   return (
     <Card
       variant="purple"
-      className="p-6 flex flex-col items-center justify-center cursor-pointer bg-[#1a1a1ab3] hover:bg-[#66538D] transition duration-300"
+      className="p-6 flex flex-col items-center justify-center cursor-pointer bg-[#1a1a1ab3] hover:bg-[#66538d55] transition duration-300"
     >
       <a
         href="https://linkedin.com/in/devnahtan"

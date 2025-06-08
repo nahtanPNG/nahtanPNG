@@ -23,30 +23,7 @@ export default function ProjectContactCard() {
         >
           <PaperPlaneTiltIcon size={20} /> Contate-me
         </a>
-        <a
-          href="https://github.com/nahtanpng"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-2xl text-foreground hover:text-primary cursor-pointer"
-        >
-          <GithubLogoIcon size={28} />
-        </a>
-        <a
-          href="https://discord.com/users/457725135940616202"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-2xl text-foreground hover:text-primary cursor-pointer"
-        >
-          <DiscordLogoIcon size={28} />
-        </a>
-        <a
-          href="https://linkedin.com/in/devnahtan"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-2xl text-foreground hover:text-primary cursor-pointer"
-        >
-          <LinkedinLogoIcon size={28} />
-        </a>
+        
       </div>
     </Card>
   );

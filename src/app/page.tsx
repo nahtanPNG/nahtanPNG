@@ -8,6 +8,8 @@ import LinkedinCard from "./components/LinkedinCard";
 import ProjectContactCard from "./components/ProjectContactCard";
 import MapCard from "./components/MapCard";
 import SettingsCard from "./components/SettingsCard";
+import FooterSocial from "./components/FooterSocial";
+
 import { useState, useEffect } from "react";
 
 export default function Home() {
@@ -40,6 +42,7 @@ export default function Home() {
           <LinkedinCard />
           <ProjectContactCard />
         </div>
+        <FooterSocial />
       </div>
     </main>
   );
