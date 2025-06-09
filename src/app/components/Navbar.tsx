@@ -1,6 +1,7 @@
 "use client";
 
-import { useRef } from "react";
+import { usePathname } from "next/navigation";
+import { useRef, useEffect, useState } from "react";
 import SettingsCard from "./SettingsCard";
 import { handleMouseMove } from "../utils/handle-mouse-move";
 import Image from "next/image";
@@ -8,6 +9,16 @@ import { CodeIcon, UserIcon, PhoneIcon, TrayIcon } from "@phosphor-icons/react";
 
 export function Navbar() {
   const navRef = useRef<HTMLDivElement>(null!);
+  const pathname = usePathname();
+  const [mounted, setMounted] = useState(false);
+
+  useEffect(() => {
+    setMounted(true);
+  }, []);
+
+  // Função para checar se está na página de tecnologias
+  const isTechPage =
+    mounted && (pathname === "/tech" || pathname.startsWith("/tech/"));
 
   return (
     <nav className="fixed top-0 left-0 w-full z-50 flex justify-center pointer-events-none px-6 md:px-0">
@@ -43,8 +54,11 @@ export function Navbar() {
           </li>
           <li className="hidden sm:block">
             <a
-              href="#tecnologias"
-              className="navbar-link hover:text-primary transition-colors"
+              href="tech"
+              className={`navbar-link hover:text-primary transition-colors${
+                isTechPage ? " text-primary active-link" : ""
+              }`}
+              style={isTechPage ? { fontWeight: "bold" } : {}}
             >
               Tecnologias
             </a>
@@ -77,8 +91,11 @@ export function Navbar() {
           </li>
           <li className="block sm:hidden">
             <a
-              href="#tecnologias"
-              className="navbar-link hover:text-primary transition-colors"
+              href="tech"
+              className={`navbar-link hover:text-primary transition-colors${
+                isTechPage ? " text-primary active-link" : ""
+              }`}
+              style={isTechPage ? { fontWeight: "bold" } : {}}
             >
               <CodeIcon size={20} />
             </a>

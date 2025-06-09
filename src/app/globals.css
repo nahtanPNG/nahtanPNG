@@ -306,3 +306,6 @@
 .navbar-link:focus::after {
   transform: scaleX(1);
 }
+.navbar-link.active-link::after {
+  transform: scaleX(1);
+}
