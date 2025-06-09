@@ -20,6 +20,18 @@ import {
   SiPrisma,
   SiSequelize,
   SiPython,
+  SiMysql,
+  SiPostgresql,
+  SiMongodb,
+  SiFirebase,
+  SiSqlite,
+  SiDocker,
+  SiAmazon,
+  SiCloudflare,
+  SiGooglecloud,
+  SiRabbitmq,
+  SiJaeger,
+  SiGrafana,
 } from "react-icons/si";
 
 export const frontendList = [
@@ -131,5 +143,55 @@ export const backendList = [
     name: "Python",
     logo: <SiPython color="#3776AB" size={20} />,
     color: "#3776AB",
+  },
+];
+
+export const databaseList = [
+  { name: "MySQL", logo: <SiMysql color="#4479A1" />, color: "#4479A1" },
+  {
+    name: "PostgreSQL",
+    logo: <SiPostgresql color="#4169E1" />,
+    color: "#4169E1",
+  },
+  { name: "MongoDB", logo: <SiMongodb color="#47A248" />, color: "#47A248" },
+  { name: "Firebase", logo: <SiFirebase color="#FFCA28" />, color: "#FFCA28" },
+  { name: "SQLite", logo: <SiSqlite color="#003B57" />, color: "#003B57" },
+];
+
+export const devopsList = [
+  {
+    name: "Docker",
+    logo: <SiDocker color="#2496ED" size={20} />,
+    color: "#2496ED",
+  },
+  {
+    name: "AWS",
+    logo: <SiAmazon color="#FF9900" size={20} />,
+    color: "#FF9900",
+  },
+  {
+    name: "Cloudflare",
+    logo: <SiCloudflare color="#F38020" size={20} />,
+    color: "#F38020",
+  },
+  {
+    name: "Google Cloud",
+    logo: <SiGooglecloud color="#4285F4" size={20} />,
+    color: "#4285F4",
+  },
+  {
+    name: "RabbitMQ",
+    logo: <SiRabbitmq color="#FF6600" size={20} />,
+    color: "#FF6600",
+  },
+  {
+    name: "Jaeger",
+    logo: <SiJaeger color="#66CFE3" size={20} />,
+    color: "#66CFE3",
+  },
+  {
+    name: "Grafana",
+    logo: <SiGrafana color="#F46800" size={20} />,
+    color: "#F46800",
   },
 ];

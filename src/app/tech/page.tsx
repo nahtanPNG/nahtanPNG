@@ -1,5 +1,10 @@
 import { TechCard } from "../components/TechCard";
-import { backendList, frontendList } from "./techLists";
+import {
+  backendList,
+  databaseList,
+  devopsList,
+  frontendList,
+} from "./techLists";
 
 export default function TechnologiesPage() {
   return (
@@ -20,6 +25,20 @@ export default function TechnologiesPage() {
       <h2 className="text-xl font-semibold mb-4 mt-8">Backend</h2>
       <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4">
         {backendList.map((tech) => (
+          <TechCard key={tech.name} {...tech} />
+        ))}
+      </div>
+      <h2 className="text-xl font-semibold mb-4 mt-8">Banco de Dados</h2>
+      <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4">
+        {databaseList.map((tech) => (
+          <TechCard key={tech.name} {...tech} />
+        ))}
+      </div>
+      <h2 className="text-xl font-semibold mb-4 mt-8">
+        Devops / Infraestrutura
+      </h2>
+      <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4">
+        {devopsList.map((tech) => (
           <TechCard key={tech.name} {...tech} />
         ))}
       </div>
