@@ -20,7 +20,7 @@ const experiences = [
 export default function ContactCard() {
   return (
     <Card className="card-glass row-span-2 p-6 flex flex-col gap-6 items-start justify-start">
-      <h2 className="font-bold text-lg mb-4 text-primary">
+      <h2 className="font-bold text-lg mb-4 text-primary pixel-font">
         Experiência Profissional
       </h2>
       <div className="flex flex-col gap-4 w-full">

@@ -13,7 +13,7 @@ export default function AboutCard() {
           className="w-20 h-20 rounded-full border-2 border-primary dark:border-zinc-700 object-cover"
         />
         <div>
-          <span className="font-semibold text-lg text-primary">
+          <span className="font-semibold text-lg text-primary pixel-font">
             Nathan Ferreira
           </span>
           <p className="text-sm text-muted-foreground">Software Developer</p>
