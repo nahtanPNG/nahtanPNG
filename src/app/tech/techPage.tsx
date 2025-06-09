@@ -12,12 +12,12 @@ import { useFadeInOnScroll } from "../utils/useFadeInOnScroll";
 export default function TechnologiesPage() {
   return (
     <main className="max-w-4xl mx-auto py-12 px-4 mt-20 animate-fade-in">
-      <h1 className="text-3xl font-bold mb-2">Tecnologias e Ferramentas</h1>
-      <p className="text-muted-foreground mb-8 max-w-3xl">
-        Explore as tecnologias e ferramentas que impulsionam a minha experiência
-        em desenvolvimento. Eu seleciono e uso meticulosamente essas ferramentas
-        para criar soluções robustas e eficientes, priorizando sempre a
-        experiência do usuário.
+      <h1 className="text-3xl font-bold mb-2">Tecnologias</h1>
+      <p className="text-muted-foreground mb-8 max-w-4xl">
+        Trabalho com um conjunto moderno de tecnologias que me permite
+        desenvolver aplicações escaláveis, performáticas e bem estruturadas.
+        Cada ferramenta é escolhida com foco em produtividade, qualidade de
+        código e uma experiência de uso fluida e eficiente.
       </p>
       <h2 className="text-xl font-semibold mb-4 mt-8">Frontend</h2>
       <div
