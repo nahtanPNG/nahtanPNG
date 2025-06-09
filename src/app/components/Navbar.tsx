@@ -6,6 +6,7 @@ import SettingsCard from "./SettingsCard";
 import { handleMouseMove } from "../utils/handle-mouse-move";
 import Image from "next/image";
 import { CodeIcon, UserIcon, PhoneIcon, TrayIcon } from "@phosphor-icons/react";
+import Link from "next/link";
 
 export function Navbar() {
   const navRef = useRef<HTMLDivElement>(null!);
@@ -26,7 +27,7 @@ export function Navbar() {
         onMouseMove={(e) => handleMouseMove(e, navRef)}
         className="nav-glass mt-4 w-full max-w-4xl mx-auto rounded-full px-6 py-3 flex items-center justify-between backdrop-blur-xs shadow-lg border border-border  pointer-events-auto"
       >
-        <span className="text-2xl" role="img" aria-label="Shaka">
+        <Link href="/" role="img" aria-label="Shaka">
           <Image
             src="/logo.svg"
             alt="Logo"
@@ -34,7 +35,7 @@ export function Navbar() {
             height={32}
             className="object-cover"
           />
-        </span>
+        </Link>
         <ul className="flex gap-8 text-muted-foreground font-medium">
           <li className="hidden sm:block">
             <a
