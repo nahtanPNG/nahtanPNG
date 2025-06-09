@@ -18,8 +18,9 @@ export function Navbar() {
   }, []);
 
   // Função para checar se está na página de tecnologias
-  const isTechPage =
-    mounted && (pathname === "/tech" || pathname.startsWith("/tech/"));
+  const isTechPage = mounted && pathname === "/tech";
+
+  const isAboutPage = mounted && pathname === "/about";
 
   return (
     <nav className="fixed top-0 left-0 w-full z-50 flex justify-center pointer-events-none px-6 md:px-0">
@@ -39,8 +40,11 @@ export function Navbar() {
         <ul className="flex gap-8 text-muted-foreground font-medium">
           <li className="hidden sm:block">
             <a
-              href="#sobre"
-              className="navbar-link hover:text-primary transition-colors"
+              href="about"
+              className={`navbar-link hover:text-primary transition-colors${
+                isAboutPage ? " text-primary active-link" : ""
+              }`}
+              style={isAboutPage ? { fontWeight: "bold" } : {}}
             >
               Sobre
             </a>
@@ -76,8 +80,11 @@ export function Navbar() {
           {/* mobile */}
           <li className="block sm:hidden">
             <a
-              href="#sobre"
-              className="navbar-link hover:text-primary transition-colors"
+              href="tech"
+              className={`navbar-link hover:text-primary transition-colors${
+                isAboutPage ? " text-primary active-link" : ""
+              }`}
+              style={isAboutPage ? { fontWeight: "bold" } : {}}
             >
               <UserIcon size={20} />
             </a>

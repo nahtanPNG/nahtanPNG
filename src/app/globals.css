@@ -1,4 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap");
 @import "tailwindcss";
+
+/* Importando a fonte pixel art do Google Fonts */
 
 @theme {
   --font-sans:
@@ -320,4 +323,12 @@
 }
 .navbar-link.active-link::after {
   transform: scaleX(1);
+}
+
+.pixel-font {
+  font-family: "Pixelify Sans", sans-serif;
+  letter-spacing: 0.05rem;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-weight: 400;
 }

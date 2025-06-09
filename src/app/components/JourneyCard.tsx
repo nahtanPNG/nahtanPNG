@@ -4,7 +4,9 @@ export default function ProjectCard() {
   return (
     <Card className="card-glass p-6 flex flex-col items-center justify-center">
       <div>
-        <h2 className="font-bold text-lg mb-1 text-primary">Minha Jornada</h2>
+        <h2 className="font-bold text-lg mb-1 text-primary pixel-font">
+          Minha Jornada
+        </h2>
         <p className="text-sm text-foreground opacity-80 mb-4">
           Minha jornada começou na ETEC, onde tive a base técnica em
           Desenvolvimento de Sistemas. De lá pra cá...

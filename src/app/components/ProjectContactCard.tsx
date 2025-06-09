@@ -4,7 +4,7 @@ import Card from "./Card";
 export default function ProjectContactCard() {
   return (
     <Card className="card-glass col-span-1 md:col-span-1 p-6 flex flex-col items-center justify-center">
-      <h2 className="font-bold text-lg mb-2 text-primary">
+      <h2 className="font-bold text-lg mb-2 text-primary pixel-font">
         Tem um projeto interessante em mente? 👋
       </h2>
       <p className="text-sm text-foreground opacity-80 mb-4">
