@@ -7,7 +7,6 @@ import ExperiencesCard from "./components/ExperiencesCard";
 import LinkedinCard from "./components/LinkedinCard";
 import ProjectContactCard from "./components/ProjectContactCard";
 import MapCard from "./components/MapCard";
-import SettingsCard from "./components/SettingsCard";
 import FooterSocial from "./components/FooterSocial";
 
 import { useState, useEffect } from "react";
@@ -28,12 +27,9 @@ export default function Home() {
   }, [language]);
 
   return (
-    <main className="min-h-screen flex flex-col items-center justify-center p-6">
+    <main className="min-h-screen flex flex-col justify-center items-center p-6 pt-24">
       <div className="w-full max-w-5xl">
-        <div className="flex justify-end">
-          <SettingsCard onOpen={() => {}} />
-        </div>
-        <div className="w-full grid grid-cols-1 md:grid-cols-3 gap-6 animate-fade-in mt-0">
+        <div className="w-full grid grid-cols-1 md:grid-cols-3 gap-6 animate-fade-in">
           <AboutCard />
           <MapCard />
           <JourneyCard />

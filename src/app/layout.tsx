@@ -3,6 +3,7 @@ import { JetBrains_Mono } from "next/font/google";
 import "./globals.css";
 import { PatternBackground } from "./components/pattern-bg";
 import { ThemeProvider } from "next-themes";
+import { Navbar } from "./components/Navbar";
 
 const jetbrainsMono = JetBrains_Mono({
   subsets: ["latin"],
@@ -67,6 +68,7 @@ export default function RootLayout({
         className={`${jetbrainsMono.variable} font-mono bg-background antialiased`}
       >
         <PatternBackground variant="checkered" />
+        <Navbar />
         <ThemeProvider
           attribute="class"
           defaultTheme="system"
