@@ -48,7 +48,7 @@ export default function AboutPage() {
           Experiências especiais na minha vida.
         </p>
         <div className="flex flex-col md:flex-row gap-8 items-start">
-          <div className="md:w-1/2 w-full mb-4 md:mb-0">
+          <div className="w-full mb-4 md:mb-0 mt-8">
             <h2 className="text-lg font-bold mb-2">Desafio Liga Jovem</h2>
             <p className="text-muted-foreground">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam
@@ -56,23 +56,17 @@ export default function AboutPage() {
               sit amet est non elit rutrum viverra eget sit amet magna.
             </p>
           </div>
-          <div className="md:w-1/2 w-full grid grid-cols-2 md:grid-cols-3 gap-6 auto-rows-[140px]">
+          <div className="w-full grid grid-cols-2 gap-4 auto-rows-[200px]">
             {[
-              { src: "/sebrae.jpg", alt: "Avatar" },
+              { src: "/equipe.jpg", alt: "Avatar" },
+              {
+                src: "/apresentacao-local.jpg",
+                alt: "Globe",
+              },
               {
                 src: "/apresentacao.jpg",
                 alt: "About",
                 className: "col-span-2",
-              },
-              {
-                src: "/apresentacao-local.jpg",
-                alt: "Globe",
-                className: "col-span-2",
-              },
-              {
-                src: "/pulseiras.jpeg",
-                alt: "Globe",
-                className: "col-span-1",
               },
             ].map((img, idx) => (
               <div
