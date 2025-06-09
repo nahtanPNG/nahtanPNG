@@ -245,6 +245,25 @@
   animation: fade-in 0.8s ease-out forwards;
 }
 
+.fade-in-section {
+  opacity: 0;
+  transform: translateY(32px);
+  transition:
+    opacity 0.8s cubic-bezier(0.4, 0, 0.2, 1),
+    transform 0.8s cubic-bezier(0.4, 0, 0.2, 1);
+}
+.fade-in-visible {
+  opacity: 1;
+  transform: none;
+}
+
+.nav-glass {
+  background: rgba(26, 26, 26, 0.9);
+  position: relative;
+  overflow: hidden;
+  transition: box-shadow 0.3s;
+}
+
 .card-glass {
   background: rgba(26, 26, 26, 0.7); /* cor base dos cards com transparência */
   backdrop-filter: blur(12px);
@@ -275,4 +294,30 @@
 .card-glass > * {
   position: relative;
   z-index: 2;
+}
+
+.navbar-link {
+  position: relative;
+  transition: color 0.2s;
+}
+.navbar-link::after {
+  content: "";
+  display: block;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -2px;
+  height: 2px;
+  background: #66538d;
+  border-radius: 2px;
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+.navbar-link:hover::after,
+.navbar-link:focus::after {
+  transform: scaleX(1);
+}
+.navbar-link.active-link::after {
+  transform: scaleX(1);
 }

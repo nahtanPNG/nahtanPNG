@@ -6,8 +6,8 @@ export default function ProjectCard() {
       <div>
         <h2 className="font-bold text-lg mb-1 text-primary">Minha Jornada</h2>
         <p className="text-sm text-foreground opacity-80 mb-4">
-          Um breve relato sobre minha jornada no mundo da programação, iniciada
-          com paixão e curiosidade.
+          Minha jornada começou na ETEC, onde tive a base técnica em
+          Desenvolvimento de Sistemas. De lá pra cá...
         </p>
       </div>
       <div className="flex items-center justify-between">

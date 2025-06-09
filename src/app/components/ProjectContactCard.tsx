@@ -8,8 +8,8 @@ export default function ProjectContactCard() {
         Tem um projeto interessante em mente? 👋
       </h2>
       <p className="text-sm text-foreground opacity-80 mb-4">
-        Se você tem um projeto que quer tirar do papel, precisa de ajuda ou só
-        quer bater um papo, entre em contato!
+        Tem um projeto em mente? Precisa tirar uma ideia do papel ou quer trocar
+        uma ideia sobre tecnologia? Vamos conversar!
       </p>
       <div className="flex gap-3 items-center">
         <a

@@ -20,9 +20,9 @@ export default function AboutCard() {
         </div>
       </div>
       <p className="text-sm md:text-base text-foreground opacity-90 mt-2">
-        Olá! Sou Nathan, desenvolvedor de software apaixonado por tecnologia,
-        música e aprender coisas novas. Gosto de criar soluções criativas e
-        funcionais.
+        Olá! Sou Nathan Ferreira, desenvolvedor Full Stack com paixão por
+        tecnologia e aprendizado. Gosto de unir criatividade e organização para
+        transformar suas ideias em sistemas eficientes e bem pensados.
       </p>
     </Card>
   );
