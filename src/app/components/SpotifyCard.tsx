@@ -22,17 +22,6 @@ export default function SpotifyCard() {
   const [error, setError] = useState(false);
   const [useDemo, setUseDemo] = useState(false);
 
-  // Dados de demonstração (remova depois de configurar a API)
-  const demoTrack: SpotifyTrack = {
-    name: "Bohemian Rhapsody",
-    artist: "Queen",
-    album: "A Night at the Opera",
-    image: "https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a",
-    url: "https://open.spotify.com/track/4u7EnebtmKWzUH433cf5Qv",
-    isPlaying: false,
-    playedAt: new Date(Date.now() - 1000 * 60 * 15).toISOString(),
-  };
-
   useEffect(() => {
     fetchLastPlayed();
     const interval = setInterval(fetchLastPlayed, 60000);
@@ -51,7 +40,6 @@ export default function SpotifyCard() {
       } else {
         console.log("API não disponível, usando dados de demonstração");
         setUseDemo(true);
-        setTrack(demoTrack);
         setError(false);
       }
 
@@ -60,7 +48,6 @@ export default function SpotifyCard() {
       console.error("Erro ao buscar última música:", err);
       console.log("Usando dados de demonstração");
       setUseDemo(true);
-      setTrack(demoTrack);
       setError(false);
       setLoading(false);
     }
