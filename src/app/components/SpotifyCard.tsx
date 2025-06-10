@@ -69,8 +69,10 @@ export default function SpotifyCard() {
   if (loading) {
     return (
       <Card className="card-glass p-6 flex flex-col items-center justify-center min-h-[200px]">
-        <SiSpotify size={32} className="text-[#1DB954] animate-pulse mb-2" />
-        <p className="text-sm text-muted-foreground">Carregando música...</p>
+        <div className="flex flex-col items-center justify-center">
+          <SiSpotify size={32} className="text-[#1DB954] animate-pulse mb-2" />
+          <p className="text-sm text-muted-foreground">Carregando música...</p>
+        </div>
       </Card>
     );
   }
@@ -78,13 +80,12 @@ export default function SpotifyCard() {
   if (error || !track) {
     return (
       <Card className="card-glass p-6 flex flex-col items-center justify-center min-h-[200px]">
-        <SiSpotify size={32} className="text-[#1DB954] mb-2" />
-        <p className="text-sm text-muted-foreground text-center">
-          Não foi possível carregar a música
-        </p>
-        <p className="text-xs text-muted-foreground mt-1">
-          Verifique a configuração da API
-        </p>
+        <div className="flex flex-col items-center justify-center">
+          <SiSpotify size={32} className="text-[#1DB954] mb-2" />
+          <p className="text-sm text-muted-foreground text-center">
+            Não foi possível carregar a música
+          </p>
+        </div>
       </Card>
     );
   }
