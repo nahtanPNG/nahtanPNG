@@ -2,13 +2,19 @@
 
 import Image from "next/image";
 import { useState } from "react";
+import { useFadeInOnScroll } from "../utils/useFadeInOnScroll";
 
 export default function AboutPage() {
   const [hovered, setHovered] = useState<number | null>(null);
+  const aboutRef = useFadeInOnScroll();
+  const destaqueRef = useFadeInOnScroll();
 
   return (
-    <main className="max-w-5xl mx-auto py-12 px-4 mt-20 animate-fade-in">
-      <div className="flex flex-col md:flex-row align-center justify-between w-full gap-5 md:mt-8">
+    <main className="max-w-5xl mx-auto py-12 px-4 mt-20">
+      <div
+        className="flex flex-col md:flex-row align-center justify-between w-full gap-5 md:mt-8 fade-in-section"
+        ref={aboutRef}
+      >
         <Image
           src="/favicon.svg"
           alt="Avatar"
@@ -40,32 +46,46 @@ export default function AboutPage() {
           </section>
         </div>
       </div>
-      <div className="mt-8">
-        <h1 className="text-3xl font-semibold mb-4 mt-8 pixel-font">
+      <div className="mt-8 fade-in-section" ref={destaqueRef}>
+        <h1 className="text-3xl font-semibold mb-2 mt-8 pixel-font">
           Destaques
         </h1>
-        <p className="text-muted-foreground mb-8 max-w-4xl">
-          Experiências especiais na minha vida.
+        <p className="text-muted-foreground mb-2 max-w-4xl">
+          Experiências especiais que vivenciei na minha vida.
         </p>
-        <div className="flex flex-col md:flex-row gap-8 items-start">
+        <div className="flex flex-col gap-8 items-start">
           <div className="w-full mb-4 md:mb-0 mt-8">
             <h2 className="text-lg font-bold mb-2">Desafio Liga Jovem</h2>
             <p className="text-muted-foreground">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam
               dapibus fringilla eros. Phasellus at sollicitudin libero. Etiam
-              sit amet est non elit rutrum viverra eget sit amet magna.
+              sit amet est non elit rutrum viverra eget sit amet magna. Donec
+              bibendum faucibus metus vitae consectetur.
             </p>
           </div>
-          <div className="w-full grid grid-cols-2 gap-4 auto-rows-[200px]">
+          <div className="w-full grid grid-cols-2 md:grid-cols-4 gap-4 auto-rows-[140px] md:auto-rows-[220px] ">
             {[
-              { src: "/equipe.jpg", alt: "Avatar" },
+              {
+                src: "/equipe.jpg",
+                alt: "Imagem da equipe",
+                className: "col-span-2",
+              },
               {
                 src: "/apresentacao-local.jpg",
-                alt: "Globe",
+                alt: "Local da apresentação na fatec sebrae",
+              },
+              {
+                src: "/sebrae.jpg",
+                alt: "Logo do SEBRAE",
+                className: "row-span-2",
+              },
+              {
+                src: "/pulseiras.jpeg",
+                alt: "Pulseiras",
               },
               {
                 src: "/apresentacao.jpg",
-                alt: "About",
+                alt: "Imagem de pessoas apresentando um slide",
                 className: "col-span-2",
               },
             ].map((img, idx) => (

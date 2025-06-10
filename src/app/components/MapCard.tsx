@@ -98,9 +98,30 @@ const darkMapStyle = [
 ];
 
 export default function MapCard() {
+  // Verifica se a chave da API está disponível
+  const apiKey = process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY;
+
+  if (!apiKey) {
+    return (
+      <div className="bg-card rounded-2xl flex flex-col items-center justify-center shadow-lg border border-gray-200 dark:border-zinc-700 overflow-hidden h-full min-h-[120px]">
+        <div className="text-center p-4">
+          <p className="text-muted-foreground text-sm">📍 São Paulo, SP</p>
+          <p className="text-xs text-muted-foreground mt-1">
+            Mapa indisponível
+          </p>
+        </div>
+      </div>
+    );
+  }
+
   return (
     <div className="bg-card rounded-2xl flex flex-col items-center justify-center shadow-lg border border-gray-200 dark:border-zinc-700 overflow-hidden h-full min-h-[120px]">
-      <LoadScript googleMapsApiKey={process.env.GOOGLE_MAPS_API_KEY || ""}>
+      <LoadScript
+        googleMapsApiKey={apiKey}
+        onError={(error) => {
+          console.error("Erro ao carregar Google Maps:", error);
+        }}
+      >
         <GoogleMap
           mapContainerStyle={{ width: "100%", height: "100%" }}
           center={center}
