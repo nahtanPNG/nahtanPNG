@@ -3,13 +3,13 @@
 import AboutCard from "./components/AboutCard";
 import JourneyCard from "./components/JourneyCard";
 import GithubCard from "./components/GithubCard";
-import ExperiencesCard from "./components/ExperiencesCard";
 import LinkedinCard from "./components/LinkedinCard";
 import ProjectContactCard from "./components/ProjectContactCard";
 import MapCard from "./components/MapCard";
 import FooterSocial from "./components/FooterSocial";
 
 import { useState, useEffect } from "react";
+import SpotifyCard from "./components/SpotifyCard";
 
 export default function Home() {
   const [language, setLanguage] = useState("pt");
@@ -34,7 +34,7 @@ export default function Home() {
           <MapCard />
           <JourneyCard />
           <GithubCard />
-          <ExperiencesCard />
+          <SpotifyCard />
           <LinkedinCard />
           <ProjectContactCard />
         </div>
