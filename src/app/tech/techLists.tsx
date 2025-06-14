@@ -32,6 +32,10 @@ import {
   SiRabbitmq,
   SiJaeger,
   SiGrafana,
+  SiLua,
+  SiGamemaker,
+  SiGodotengine,
+  SiAseprite,
 } from "react-icons/si";
 
 export const frontendList = [
@@ -156,6 +160,29 @@ export const databaseList = [
   { name: "MongoDB", logo: <SiMongodb color="#47A248" />, color: "#47A248" },
   { name: "Firebase", logo: <SiFirebase color="#FFCA28" />, color: "#FFCA28" },
   { name: "SQLite", logo: <SiSqlite color="#003B57" />, color: "#003B57" },
+];
+
+export const gamedevList = [
+  {
+    name: "Lua",
+    logo: <SiLua color="#2C2D72" size={20} />,
+    color: "#2C2D72",
+  },
+  {
+    name: "Gamemaker",
+    logo: <SiGamemaker color="#000000" size={20} />,
+    color: "#000000",
+  },
+  {
+    name: "Godot Engine",
+    logo: <SiGodotengine color="#478CBF" size={20} />,
+    color: "#478CBF",
+  },
+  {
+    name: "Aseprite",
+    logo: <SiAseprite color="#7D929E" size={20} />,
+    color: "#7D929E",
+  },
 ];
 
 export const devopsList = [

@@ -6,6 +6,7 @@ import {
   databaseList,
   devopsList,
   frontendList,
+  gamedevList,
 } from "./techLists";
 import { useFadeInOnScroll } from "../utils/useFadeInOnScroll";
 
@@ -56,6 +57,15 @@ export default function TechnologiesPage() {
         className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4 fade-in-section"
       >
         {devopsList.map((tech) => (
+          <TechCard key={tech.name} {...tech} />
+        ))}
+      </div>
+      <h2 className="text-xl font-semibold mb-4 mt-8 pixel-font">Gamedev</h2>
+      <div
+        ref={useFadeInOnScroll()}
+        className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4 fade-in-section"
+      >
+        {gamedevList.map((tech) => (
           <TechCard key={tech.name} {...tech} />
         ))}
       </div>
