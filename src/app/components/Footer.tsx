@@ -5,7 +5,6 @@ import {
   GithubLogoIcon,
   LinkedinLogoIcon,
   HeartIcon,
-  PaperPlaneTiltIcon,
   MapPinIcon,
 } from "@phosphor-icons/react";
 import Link from "next/link";
@@ -15,8 +14,8 @@ export default function Footer() {
 
   return (
     <footer className="bg-[#0a0a0a] border-t border-zinc-800 mt-16">
-      <div className="max-w-6xl mx-auto px-6 py-12">
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-6 mb-8">
+      <div className="max-w-5xl mx-auto py-12">
+        <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
           <div className="md:col-span-2">
             <div className="flex items-center gap-3 mb-2">
               <div>
@@ -91,10 +90,6 @@ export default function Footer() {
                 href="mailto:nathan.ferreiira.dev@gmail.com"
                 className="flex items-center gap-2 text-muted-foreground hover:text-[#66538d] transition-colors text-sm group"
               >
-                <PaperPlaneTiltIcon
-                  size={16}
-                  className="text-[#66538d] group-hover:translate-x-1 transition-transform"
-                />
                 <span>nathan.ferreiira.dev@gmail.com</span>
               </a>
 

@@ -8,7 +8,7 @@ export default function ContactPage() {
   const formRef = useFadeInOnScroll();
 
   return (
-    <main className="max-w-4xl mx-auto py-12 px-4 mt-20">
+    <main className="max-w-5xl mx-auto py-12 px-4 mt-20">
       <section className="mb-16 fade-in-section" ref={heroRef}>
         <h1 className="text-4xl font-bold mb-4 pixel-font">Vamos conversar!</h1>
         <p className="text-base text-muted-foreground">
