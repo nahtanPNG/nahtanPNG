@@ -4,6 +4,7 @@ import "./globals.css";
 import { PatternBackground } from "./components/pattern-bg";
 import { ThemeProvider } from "next-themes";
 import { Navbar } from "./components/Navbar";
+import Footer from "./components/Footer";
 
 const jetbrainsMono = JetBrains_Mono({
   subsets: ["latin"],
@@ -76,6 +77,7 @@ export default function RootLayout({
           disableTransitionOnChange
         ></ThemeProvider>
         {children}
+        <Footer />
       </body>
     </html>
   );

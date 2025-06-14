@@ -17,10 +17,9 @@ export function Navbar() {
     setMounted(true);
   }, []);
 
-  // Função para checar se está na página de tecnologias
   const isTechPage = mounted && pathname === "/tech";
-
   const isAboutPage = mounted && pathname === "/about";
+  const isContactPage = mounted && pathname === "/contact";
 
   return (
     <nav className="fixed top-0 left-0 w-full z-50 flex justify-center pointer-events-none px-6 md:px-0">
@@ -40,7 +39,7 @@ export function Navbar() {
         <ul className="flex gap-8 text-muted-foreground font-medium">
           <li className="hidden sm:block">
             <a
-              href="about"
+              href="/about"
               className={`navbar-link hover:text-primary transition-colors${
                 isAboutPage ? " text-primary active-link" : ""
               }`}
@@ -51,7 +50,7 @@ export function Navbar() {
           </li>
           <li className="hidden sm:block">
             <a
-              href="#projetos"
+              href="/projetos"
               className="navbar-link hover:text-primary transition-colors"
             >
               Projetos
@@ -59,7 +58,7 @@ export function Navbar() {
           </li>
           <li className="hidden sm:block">
             <a
-              href="tech"
+              href="/tech"
               className={`navbar-link hover:text-primary transition-colors${
                 isTechPage ? " text-primary active-link" : ""
               }`}
@@ -70,8 +69,11 @@ export function Navbar() {
           </li>
           <li className="hidden sm:block">
             <a
-              href="#contato"
-              className="navbar-link hover:text-primary transition-colors"
+              href="/contact"
+              className={`navbar-link hover:text-primary transition-colors${
+                isContactPage ? " text-primary active-link" : ""
+              }`}
+              style={isContactPage ? { fontWeight: "bold" } : {}}
             >
               Contato
             </a>
@@ -80,7 +82,7 @@ export function Navbar() {
           {/* mobile */}
           <li className="block sm:hidden">
             <a
-              href="tech"
+              href="/about"
               className={`navbar-link hover:text-primary transition-colors${
                 isAboutPage ? " text-primary active-link" : ""
               }`}
@@ -99,7 +101,7 @@ export function Navbar() {
           </li>
           <li className="block sm:hidden">
             <a
-              href="tech"
+              href="/tech"
               className={`navbar-link hover:text-primary transition-colors${
                 isTechPage ? " text-primary active-link" : ""
               }`}
@@ -110,8 +112,11 @@ export function Navbar() {
           </li>
           <li className="block sm:hidden">
             <a
-              href="#contato"
-              className="navbar-link hover:text-primary transition-colors"
+              href="/contact"
+              className={`navbar-link hover:text-primary transition-colors${
+                isContactPage ? " text-primary active-link" : ""
+              }`}
+              style={isContactPage ? { fontWeight: "bold" } : {}}
             >
               <PhoneIcon size={20} />
             </a>

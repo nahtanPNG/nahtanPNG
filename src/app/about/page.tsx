@@ -1,15 +1,20 @@
-"use client";
+import type { Metadata } from "next";
+import AboutPage from "./AboutPage";
 
-import HeroSection from "./components/hero";
-import HighlightsSection from "./components/highlights";
-import InterestsSection from "./components/interests";
+export const metadata: Metadata = {
+  title: "Nathan • Sobre",
+  description:
+    "Minha jornada na programação começou na ETEC, onde descobri o poder de transformar ideias em código. Desde então, tenho me dedicado a aprender...",
+  openGraph: {
+    title: "Nathan • Sobre",
+    description:
+      "Minha jornada na programação começou na ETEC, onde descobri o poder de transformar ideias em código. Desde então, tenho me dedicado a aprender...",
+    url: "https://nathanferreira.dev/about",
+    siteName: "Nathan Ferreira",
+    type: "website",
+  },
+};
 
-export default function AboutPage() {
-  return (
-    <main className="max-w-5xl mx-auto py-12 px-4 mt-20">
-      <HeroSection />
-      <InterestsSection />
-      <HighlightsSection />
-    </main>
-  );
+export default function ContactPageServer() {
+  return <AboutPage />;
 }
