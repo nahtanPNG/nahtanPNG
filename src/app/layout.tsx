@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { JetBrains_Mono } from "next/font/google";
+import { JetBrains_Mono, Pixelify_Sans } from "next/font/google";
 import "./globals.css";
 import { PatternBackground } from "./components/pattern-bg";
 import { ThemeProvider } from "next-themes";
@@ -9,6 +9,12 @@ import Footer from "./components/Footer";
 const jetbrainsMono = JetBrains_Mono({
   subsets: ["latin"],
   variable: "--font-jetbrains-mono",
+});
+
+const pixelifySans = Pixelify_Sans({
+  subsets: ["latin"],
+  variable: "--font-pixelify-sans",
+  weight: ["400", "500", "600", "700"],
 });
 
 export const metadata: Metadata = {
@@ -66,7 +72,7 @@ export default function RootLayout({
         <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
       </head>
       <body
-        className={`${jetbrainsMono.variable} font-mono bg-background antialiased`}
+        className={`${jetbrainsMono.variable} ${pixelifySans.variable} font-mono bg-background antialiased`}
       >
         <PatternBackground variant="checkered" />
         <Navbar />

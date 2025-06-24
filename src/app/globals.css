@@ -1,12 +1,14 @@
-@import url("https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap");
+/* Remova a importação do Google Fonts daqui */
+/* @import url("https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap"); */
 @import "tailwindcss";
-
-/* Importando a fonte pixel art do Google Fonts */
 
 @theme {
   --font-sans:
     "JetBrains Mono", ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji",
     "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+
+  /* Adicione a variável da fonte pixel */
+  --font-pixelify: var(--font-pixelify-sans);
 
   --color-border: hsl(var(--border));
   --color-input: hsl(var(--input));
@@ -326,7 +328,7 @@
 }
 
 .pixel-font {
-  font-family: "Pixelify Sans", sans-serif;
+  font-family: var(--font-pixelify-sans), "Pixelify Sans", monospace;
   letter-spacing: 0.05rem;
   font-optical-sizing: auto;
   font-style: normal;
