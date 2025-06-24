@@ -18,10 +18,10 @@ export default function HeroSection() {
       ref={aboutRef}
     >
       <Image
-        src="/favicon.svg"
+        src="/nathan.JPG"
         alt="Avatar"
-        width={500}
-        height={500}
+        width={1000}
+        height={1000}
         className="rounded-md w-[420px] h-auto object-cover"
       />
       <div className="flex flex-col gap-2">

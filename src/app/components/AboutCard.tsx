@@ -6,11 +6,11 @@ export default function AboutCard() {
     <Card className="card-glass col-span-1 md:col-span-2 p-8 flex flex-col justify-center items-start">
       <div className="flex items-center gap-4 mb-3">
         <Image
-          src="/avatar.png"
+          src="/nathan.JPG"
           alt="Avatar"
-          width={80}
-          height={80}
-          className="w-20 h-20 rounded-full border-2 border-primary dark:border-zinc-700 object-cover"
+          width={500}
+          height={500}
+          className="w-20 h-20 rounded-full border-2 border-primary dark:border-zinc-700 object-cover object-bottom"
         />
         <div>
           <span className="font-semibold text-lg text-primary pixel-font">
