@@ -1,7 +1,7 @@
 "use client";
 
 import { usePathname } from "next/navigation";
-import { useRef, useEffect, useState } from "react";
+import { useRef } from "react";
 import ThemeToggle from "./ThemeToggle";
 import { handleMouseMove } from "../utils/handle-mouse-move";
 import Image from "next/image";
@@ -11,23 +11,29 @@ import Link from "next/link";
 export function Navbar() {
   const navRef = useRef<HTMLDivElement>(null!);
   const pathname = usePathname();
-  const [mounted, setMounted] = useState(false);
 
-  useEffect(() => {
-    setMounted(true);
-  }, []);
+  const isTechPage = pathname === "/tech";
+  const isAboutPage = pathname === "/about";
+  const isContactPage = pathname === "/contact";
+  const isProjectsPage = pathname === "/projects";
 
-  const isTechPage = mounted && pathname === "/tech";
-  const isAboutPage = mounted && pathname === "/about";
-  const isContactPage = mounted && pathname === "/contact";
+  const getLinkClassName = (isActive: boolean) => {
+    return `navbar-link hover:text-primary transition-colors${
+      isActive ? " text-primary active-link" : ""
+    }`;
+  };
+
+  const getLinkStyle = (isActive: boolean) => {
+    return isActive ? { fontWeight: "bold" } : {};
+  };
 
   return (
     <nav className="fixed top-0 left-0 w-full z-50 flex justify-center pointer-events-none px-6 md:px-0">
       <div
         onMouseMove={(e) => handleMouseMove(e, navRef)}
-        className="nav-glass mt-4 w-full max-w-4xl mx-auto rounded-full px-6 py-3 flex items-center justify-between backdrop-blur-xs shadow-lg border border-border  pointer-events-auto"
+        className="nav-glass mt-4 w-full max-w-4xl mx-auto rounded-full px-6 py-3 flex items-center justify-between backdrop-blur-xs shadow-lg border border-border pointer-events-auto"
       >
-        <Link href="/" role="img" aria-label="Shaka">
+        <Link href="/" role="img" aria-label="Logo">
           <Image
             src="/logo.svg"
             alt="Logo"
@@ -36,92 +42,87 @@ export function Navbar() {
             className="object-cover"
           />
         </Link>
-        <ul className="flex gap-8 text-muted-foreground font-medium">
-          <li className="hidden sm:block">
-            <a
+
+        {/* Desktop Navigation */}
+        <ul className="hidden sm:flex gap-8 text-muted-foreground font-medium">
+          <li>
+            <Link
               href="/about"
-              className={`navbar-link hover:text-primary transition-colors${
-                isAboutPage ? " text-primary active-link" : ""
-              }`}
-              style={isAboutPage ? { fontWeight: "bold" } : {}}
+              className={getLinkClassName(isAboutPage)}
+              style={getLinkStyle(isAboutPage)}
             >
               Sobre
-            </a>
+            </Link>
           </li>
-          <li className="hidden sm:block">
-            <a
+          <li>
+            <Link
               href="/projects"
-              className="navbar-link hover:text-primary transition-colors"
+              className={getLinkClassName(isProjectsPage)}
+              style={getLinkStyle(isProjectsPage)}
             >
               Projetos
-            </a>
+            </Link>
           </li>
-          <li className="hidden sm:block">
-            <a
+          <li>
+            <Link
               href="/tech"
-              className={`navbar-link hover:text-primary transition-colors${
-                isTechPage ? " text-primary active-link" : ""
-              }`}
-              style={isTechPage ? { fontWeight: "bold" } : {}}
+              className={getLinkClassName(isTechPage)}
+              style={getLinkStyle(isTechPage)}
             >
               Tecnologias
-            </a>
+            </Link>
           </li>
-          <li className="hidden sm:block">
-            <a
+          <li>
+            <Link
               href="/contact"
-              className={`navbar-link hover:text-primary transition-colors${
-                isContactPage ? " text-primary active-link" : ""
-              }`}
-              style={isContactPage ? { fontWeight: "bold" } : {}}
+              className={getLinkClassName(isContactPage)}
+              style={getLinkStyle(isContactPage)}
             >
               Contato
-            </a>
-          </li>
-
-          {/* mobile */}
-          <li className="block sm:hidden">
-            <a
-              href="/about"
-              className={`navbar-link hover:text-primary transition-colors${
-                isAboutPage ? " text-primary active-link" : ""
-              }`}
-              style={isAboutPage ? { fontWeight: "bold" } : {}}
-            >
-              <UserIcon size={20} />
-            </a>
-          </li>
-          <li className="block sm:hidden">
-            <a
-              href="/projects"
-              className="navbar-link hover:text-primary transition-colors"
-            >
-              <TrayIcon size={20} />
-            </a>
-          </li>
-          <li className="block sm:hidden">
-            <a
-              href="/tech"
-              className={`navbar-link hover:text-primary transition-colors${
-                isTechPage ? " text-primary active-link" : ""
-              }`}
-              style={isTechPage ? { fontWeight: "bold" } : {}}
-            >
-              <CodeIcon size={20} />
-            </a>
-          </li>
-          <li className="block sm:hidden">
-            <a
-              href="/contact"
-              className={`navbar-link hover:text-primary transition-colors${
-                isContactPage ? " text-primary active-link" : ""
-              }`}
-              style={isContactPage ? { fontWeight: "bold" } : {}}
-            >
-              <PhoneIcon size={20} />
-            </a>
+            </Link>
           </li>
         </ul>
+
+        {/* Mobile Navigation */}
+        <ul className="flex sm:hidden gap-8 text-muted-foreground font-medium">
+          <li>
+            <Link
+              href="/about"
+              className={getLinkClassName(isAboutPage)}
+              style={getLinkStyle(isAboutPage)}
+            >
+              <UserIcon size={20} />
+            </Link>
+          </li>
+          <li>
+            <Link
+              href="/projects"
+              className={getLinkClassName(isProjectsPage)}
+              style={getLinkStyle(isProjectsPage)}
+            >
+              <TrayIcon size={20} />
+            </Link>
+          </li>
+          <li>
+            <Link
+              href="/tech"
+              className={getLinkClassName(isTechPage)}
+              style={getLinkStyle(isTechPage)}
+            >
+              <CodeIcon size={20} />
+            </Link>
+          </li>
+          <li>
+            <Link
+              href="/contact"
+              className={getLinkClassName(isContactPage)}
+              style={getLinkStyle(isContactPage)}
+            >
+              <PhoneIcon size={20} />
+            </Link>
+          </li>
+        </ul>
+
         <div className="flex items-center gap-2">
           <ThemeToggle />
         </div>
