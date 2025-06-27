@@ -12,6 +12,7 @@ export function Navbar() {
   const navRef = useRef<HTMLDivElement>(null!);
   const pathname = usePathname();
 
+  // Determina as páginas ativas diretamente sem estado
   const isTechPage = pathname === "/tech";
   const isAboutPage = pathname === "/about";
   const isContactPage = pathname === "/contact";
