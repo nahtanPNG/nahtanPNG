@@ -304,14 +304,6 @@
   background: rgba(26, 26, 26, 0.7);
 }
 
-:root .card {
-  background: rgba(255, 255, 255, 0.8);
-}
-
-.dark .card {
-  background: rgba(26, 26, 26, 0.7);
-}
-
 .dark .card-glass {
   background: rgba(26, 26, 26, 0.7);
 }
