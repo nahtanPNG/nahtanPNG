@@ -6,6 +6,7 @@ import {
   LinkedinLogoIcon,
   HeartIcon,
   MapPinIcon,
+  MailboxIcon,
 } from "@phosphor-icons/react";
 import Link from "next/link";
 
@@ -14,7 +15,7 @@ export default function Footer() {
 
   return (
     <footer className="bg-[#0a0a0a] border-t border-zinc-800 mt-16">
-      <div className="max-w-5xl mx-auto py-12">
+      <div className="max-w-5xl mx-auto py-12 px-4">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
           <div className="md:col-span-2">
             <div className="flex items-center gap-3 mb-2">
@@ -86,20 +87,27 @@ export default function Footer() {
               Contato
             </h4>
             <div className="space-y-3">
-              <a
-                href="mailto:nathan.ferreiira.dev@gmail.com"
-                className="flex items-center gap-2 text-muted-foreground hover:text-[#66538d] transition-colors text-sm group"
-              >
-                <span>nathan.ferreiira.dev@gmail.com</span>
-              </a>
-
               <div className="flex items-center gap-3 pt-2">
+                <a
+                  href="mailto:nathan.ferreiira.dev@gmail.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="p-2 rounded-lg bg-[#1a1a1a] hover:bg-[#66538d] transition-all duration-300 group"
+                  aria-label="Email"
+                  title="nathan.ferreiira.dev@gmail.com"
+                >
+                  <MailboxIcon
+                    size={22}
+                    className="text-muted-foreground group-hover:text-white transition-colors"
+                  />
+                </a>
                 <a
                   href="https://github.com/nahtanpng"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-2 rounded-lg bg-[#1a1a1a] hover:bg-[#66538d] transition-all duration-300 group"
                   aria-label="GitHub"
+                  title="nahtanPNG"
                 >
                   <GithubLogoIcon
                     size={22}
@@ -107,11 +115,12 @@ export default function Footer() {
                   />
                 </a>
                 <a
-                  href="https://linkedin.com/in/devnahtan"
+                  href="https://www.linkedin.com/in/nathanferreiradev/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-2 rounded-lg bg-[#1a1a1a] hover:bg-[#66538d] transition-all duration-300 group"
                   aria-label="LinkedIn"
+                  title="nathanferreiradev"
                 >
                   <LinkedinLogoIcon
                     size={22}
@@ -124,6 +133,7 @@ export default function Footer() {
                   rel="noopener noreferrer"
                   className="p-2 rounded-lg bg-[#1a1a1a] hover:bg-[#66538d] transition-all duration-300 group"
                   aria-label="Discord"
+                  title="nahtanpng"
                 >
                   <DiscordLogoIcon
                     size={22}

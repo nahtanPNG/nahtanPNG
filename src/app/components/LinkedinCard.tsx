@@ -8,7 +8,7 @@ export default function LinkedinCard() {
       className="p-6 flex flex-col items-center justify-center bg-[#1a1a1ab3] hover:bg-[#66538d55] transition duration-300"
     >
       <a
-        href="https://linkedin.com/in/devnahtan"
+        href="https://www.linkedin.com/in/nathanferreiradev/"
         target="_blank"
         rel="noopener noreferrer"
         className="flex flex-col items-center cursor-pointer"

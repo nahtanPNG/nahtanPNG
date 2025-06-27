@@ -93,7 +93,7 @@ export function Navbar() {
           </li>
           <li className="block sm:hidden">
             <a
-              href="#projetos"
+              href="/projects"
               className="navbar-link hover:text-primary transition-colors"
             >
               <TrayIcon size={20} />
