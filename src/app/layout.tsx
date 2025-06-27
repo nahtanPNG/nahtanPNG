@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { Analytics } from "@vercel/analytics/next";
 import { JetBrains_Mono, Pixelify_Sans } from "next/font/google";
 import "./globals.css";
 import { PatternBackground } from "./components/pattern-bg";
@@ -85,6 +86,7 @@ export default function RootLayout({
           {children}
           <Footer />
         </ThemeProvider>
+        <Analytics />
       </body>
     </html>
   );
