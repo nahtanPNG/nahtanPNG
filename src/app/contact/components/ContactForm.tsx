@@ -137,24 +137,25 @@ export default function ContactForm() {
             placeholder="Conte-me mais sobre seu projeto ou o que está pensando..."
           />
         </div>
-
-        <button
-          type="submit"
-          disabled={isSubmitting}
-          className="w-full bg-primary text-primary-foreground px-6 py-3 rounded-lg font-semibold hover:bg-primary/90 transition-colors disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center gap-2"
-        >
-          {isSubmitting ? (
-            <>
-              <div className="w-4 h-4 border-2 border-current border-t-transparent rounded-full animate-spin" />
-              Enviando...
-            </>
-          ) : (
-            <>
-              <PaperPlaneTiltIcon size={20} />
-              Enviar mensagem
-            </>
-          )}
-        </button>
+        <div className="flex items-end justify-end">
+          <button
+            type="submit"
+            disabled={isSubmitting}
+            className="cursor-pointer bg-primary text-primary-foreground px-6 py-3 rounded-lg font-semibold  transition-colors disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center gap-2"
+          >
+            {isSubmitting ? (
+              <>
+                <div className="w-4 h-4 border-2 border-current border-t-transparent rounded-full animate-spin" />
+                Enviando...
+              </>
+            ) : (
+              <>
+                <PaperPlaneTiltIcon size={20} />
+                Enviar mensagem
+              </>
+            )}
+          </button>
+        </div>
       </form>
     </Card>
   );

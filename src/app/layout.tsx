@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { JetBrains_Mono, Pixelify_Sans } from "next/font/google";
 import "./globals.css";
 import { PatternBackground } from "./components/pattern-bg";
-import { ThemeProvider } from "next-themes";
+import { ThemeProvider } from "./components/theme-provider";
 import { Navbar } from "./components/Navbar";
 import Footer from "./components/Footer";
 
@@ -67,23 +67,24 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en" className="dark" style={{ colorScheme: "dark" }}>
+    <html lang="pt" suppressHydrationWarning>
       <head>
         <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
       </head>
       <body
         className={`${jetbrainsMono.variable} ${pixelifySans.variable} font-mono bg-background antialiased`}
       >
-        <PatternBackground variant="checkered" />
-        <Navbar />
         <ThemeProvider
           attribute="class"
           defaultTheme="system"
           enableSystem
           disableTransitionOnChange
-        ></ThemeProvider>
-        {children}
-        <Footer />
+        >
+          <PatternBackground variant="checkered" />
+          <Navbar />
+          {children}
+          <Footer />
+        </ThemeProvider>
       </body>
     </html>
   );

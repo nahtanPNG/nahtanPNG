@@ -29,7 +29,7 @@ export default function HighlightsSection() {
             </div>
 
             <div>
-              <h3 className="text-xl mb-2 text-white">
+              <h3 className="text-xl mb-2 text-primary">
                 Desafio Liga Jovem - SEBRAE
               </h3>
 

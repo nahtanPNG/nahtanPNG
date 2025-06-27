@@ -14,7 +14,7 @@ export const TechCard: React.FC<TechCardProps> = ({ name, logo, color }) => {
   return (
     <div
       ref={cardRef as React.RefObject<HTMLDivElement>}
-      className="card-glass border dark:border-zinc-700 flex items-center gap-3 rounded-xl p-3 hover:bg-accent/70 text-accent-foreground transition-colors focus:outline-hidden focus-visible:outline focus-visible:outline-ring relative overflow-hidden"
+      className="card-glass cursor-pointer border dark:border-zinc-700 flex items-center gap-3 rounded-xl p-3 hover:bg-accent/70 text-accent-foreground transition-colors focus:outline-hidden focus-visible:outline focus-visible:outline-ring relative overflow-hidden"
       onMouseMove={(e) =>
         handleMouseMove(e, cardRef as React.RefObject<HTMLDivElement>)
       }
@@ -22,7 +22,7 @@ export const TechCard: React.FC<TechCardProps> = ({ name, logo, color }) => {
       <div
         className="card-glow"
         style={{
-          background: `radial-gradient(circle at var(--x, 50%) var(--y, 50%), ${color}22 0%, transparent 60%)`,
+          background: `radial-gradient(circle at var(--x, 50%) var(--y, 50%), ${color}44 0%, transparent 60%)`,
         }}
       />
       <div className="p-2 flex items-center justify-center rounded-lg relative overflow-hidden">

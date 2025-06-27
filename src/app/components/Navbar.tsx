@@ -2,7 +2,7 @@
 
 import { usePathname } from "next/navigation";
 import { useRef, useEffect, useState } from "react";
-import SettingsCard from "./SettingsCard";
+import ThemeToggle from "./ThemeToggle";
 import { handleMouseMove } from "../utils/handle-mouse-move";
 import Image from "next/image";
 import { CodeIcon, UserIcon, PhoneIcon, TrayIcon } from "@phosphor-icons/react";
@@ -122,7 +122,9 @@ export function Navbar() {
             </a>
           </li>
         </ul>
-        <SettingsCard onOpen={() => {}} />
+        <div className="flex items-center gap-2">
+          <ThemeToggle />
+        </div>
       </div>
     </nav>
   );

@@ -46,17 +46,17 @@ export default function HeroSection() {
           </p>
         </section>
         <div className="flex flex-wrap gap-3">
-          <div className="flex items-center gap-2 px-4 py-2 bg-[#1a1a1a]/80 backdrop-blur-sm rounded-full border border-zinc-700/50">
-            <MapPinIcon size={16} className="text-[#66538d]" />
-            <span className="text-sm text-gray-300">São Paulo, SP</span>
+          <div className="card flex items-center gap-2 px-4 py-2  backdrop-blur-sm rounded-full border border-zinc-700/50">
+            <MapPinIcon size={16} className="text-icon" />
+            <span className="text-sm text-foreground">São Paulo, SP</span>
           </div>
-          <div className="flex items-center gap-2 px-4 py-2 bg-[#1a1a1a]/80 backdrop-blur-sm rounded-full border border-zinc-700/50">
-            <CalendarIcon size={16} className="text-[#8a72b8]" />
-            <span className="text-sm text-gray-300">20 anos</span>
+          <div className="card flex items-center gap-2 px-4 py-2  backdrop-blur-sm rounded-full border border-zinc-700/50">
+            <CalendarIcon size={16} className="text-icon" />
+            <span className="text-sm text-foreground">20 anos</span>
           </div>
-          <div className="flex items-center gap-2 px-4 py-2 bg-[#1a1a1a]/80 backdrop-blur-sm rounded-full border border-zinc-700/50">
-            <BracketsAngleIcon size={16} className="text-[#a690c4]" />
-            <span className="text-sm text-gray-300">3+ anos programando</span>
+          <div className="card flex items-center gap-2 px-4 py-2  backdrop-blur-sm rounded-full border border-zinc-700/50">
+            <BracketsAngleIcon size={16} className="text-icon" />
+            <span className="text-sm text-foreground">3+ anos programando</span>
           </div>
         </div>
       </div>

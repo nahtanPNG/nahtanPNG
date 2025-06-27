@@ -55,7 +55,7 @@ export default function InterestsSection() {
         ].map((interest, idx) => (
           <div
             key={idx}
-            className="bg-[#1a1a1ab3] hover:bg-[#1a1a1ad4] border dark:border-zinc-700 hover:scale-105 cursor-pointer flex items-center gap-3 rounded-xl p-3 text-accent-foreground transition-all duration-75 focus:outline-hidden focus-visible:outline focus-visible:outline-ring relative overflow-hidden"
+            className="card border dark:border-zinc-700 hover:scale-105 cursor-pointer flex items-center gap-3 rounded-xl p-3 text-accent-foreground transition-all duration-75 focus:outline-hidden focus-visible:outline focus-visible:outline-ring relative overflow-hidden"
           >
             <div className="p-2 flex items-center justify-center rounded-lg relative overflow-hidden">
               <span
