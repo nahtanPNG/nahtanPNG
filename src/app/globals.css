@@ -20,6 +20,8 @@
   --color-primary: hsl(var(--primary));
   --color-primary-foreground: hsl(var(--primary-foreground));
 
+  --color-purple-primary: hsl(var(--purple-primary));
+
   --color-secondary: hsl(var(--secondary));
   --color-secondary-foreground: hsl(var(--secondary-foreground));
 
@@ -165,9 +167,10 @@
     --card: 0 0% 100%; /* branco */
     --card-foreground: 0 0% 3.9%;
     --popover: 0 0% 100%;
-    --icon: 262 83% 58%;
+    --icon: 260 25.9% 43.9%;
     --popover-foreground: 0 0% 3.9%;
     --primary: 0 0% 3.9%;
+    --purple-primary: 260 25.9% 43.9%;
     --primary-foreground: 0 0% 98%;
     --secondary: 0 0% 96.1%;
     --secondary-foreground: 0 0% 9%;
@@ -192,6 +195,7 @@
     --popover: 0 0% 10%;
     --popover-foreground: 0 0% 98%;
     --primary: 0 0% 98%;
+    --purple-primary: 260 25.9% 43.9%;
     --primary-foreground: 240 5.9% 10%;
     --secondary: 0 0% 20%;
     --secondary-foreground: 0 0% 98%;
