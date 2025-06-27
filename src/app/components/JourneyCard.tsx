@@ -8,14 +8,17 @@ export default function ProjectCard() {
           Minha Jornada
         </h2>
         <p className="text-sm text-foreground opacity-80 mb-4">
-          Minha jornada começou na ETEC, onde tive a base técnica em
-          Desenvolvimento de Sistemas. De lá pra cá...
+          Minha jornada na programação começou na ETEC, onde descobri o poder de
+          transformar ideias em código. Desde então...
         </p>
       </div>
       <div className="flex items-center justify-between">
-        <button className="cursor-pointer px-4 py-2 rounded-full bg-primary text-primary-foreground text-sm font-semibold hover:bg-primary/80 transition">
+        <a
+          href="/about"
+          className="cursor-pointer px-4 py-2 rounded-full bg-primary text-primary-foreground text-sm font-semibold hover:bg-primary/80 transition"
+        >
           Ler mais
-        </button>
+        </a>
         <span className="text-xs text-muted-foreground">Jun 2025</span>
       </div>
     </Card>
