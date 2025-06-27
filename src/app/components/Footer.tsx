@@ -56,6 +56,14 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
+                <a
+                  href="/projects"
+                  className="text-muted-foreground hover:text-[#66538d] transition-colors text-sm"
+                >
+                  Projetos
+                </a>
+              </li>
+              <li>
                 <Link
                   href="/tech"
                   className="text-muted-foreground hover:text-[#66538d] transition-colors text-sm"
@@ -65,18 +73,10 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="#projetos"
-                  className="text-muted-foreground hover:text-[#66538d] transition-colors text-sm"
-                >
-                  Projetos
-                </a>
-              </li>
-              <li>
-                <a
                   href="/contact"
                   className="text-muted-foreground hover:text-[#66538d] transition-colors text-sm"
                 >
-                  Contatos
+                  Contato
                 </a>
               </li>
             </ul>
