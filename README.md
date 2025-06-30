@@ -47,7 +47,3 @@
 
 
 <!--END_SECTION:waka-->
-
-<a href="https://discord.com/users/457725135940616202" target="_blank">
- <img align="left" alt="Discord Status" src="https://lanyard.cnrad.dev/api/457725135940616202?hideDecoration=true&idleMessage=Probably%20coding%20something">
-</a>
