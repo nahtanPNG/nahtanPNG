@@ -1,4 +1,4 @@
-"use client";
+'use client';
 
 import {
   DiscordLogoIcon,
@@ -7,8 +7,8 @@ import {
   HeartIcon,
   MapPinIcon,
   MailboxIcon,
-} from "@phosphor-icons/react";
-import Link from "next/link";
+} from '@phosphor-icons/react';
+import Link from 'next/link';
 
 export default function Footer() {
   const currentYear = new Date().getFullYear();
@@ -16,8 +16,8 @@ export default function Footer() {
   return (
     <footer className="bg-background/80 backdrop-blur-sm border-t border-border mt-16">
       <div className="max-w-5xl mx-auto py-12 px-4">
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
-          <div className="md:col-span-2">
+        <div className="flex flex-col md:flex-row md:justify-between gap-8 mb-8">
+          <div>
             <div className="flex items-center gap-3 mb-2">
               <div>
                 <h3 className="text-lg font-bold text-foreground pixel-font">
@@ -34,7 +34,7 @@ export default function Footer() {
             </div>
           </div>
 
-          <div className="mb-4">
+          <div className=" mb-4">
             <h4 className="text-foreground font-semibold mb-4 pixel-font">
               Navegação
             </h4>
@@ -87,7 +87,7 @@ export default function Footer() {
               Contato
             </h4>
             <div className="space-y-3">
-              <div className="flex items-center gap-3 pt-2">
+              <div className="flex flex-wrap items-center gap-3 pt-2">
                 <a
                   href="mailto:nathan.ferreiira.dev@gmail.com"
                   target="_blank"
