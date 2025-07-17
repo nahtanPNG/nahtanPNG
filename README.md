@@ -25,7 +25,7 @@
 
   <p align="left">
     <samp>
-      [<a href="mailto:nathan.ferreiira.devgmail.com" target="_blank">e-mail</a>]
+      [<a href="mailto:nathan.ferreiira.dev@gmail.com" target="_blank">e-mail</a>]
       [<a href="https://discord.com/users/457725135940616202" target="_blank">discord</a>]
       [<a href="https://www.linkedin.com/in/devnahtan" target="_blank">linkedin</a>]
     </samp>
