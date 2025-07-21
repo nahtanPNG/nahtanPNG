@@ -88,9 +88,8 @@ export default function Footer() {
             </h4>
             <div className="space-y-3">
               <div className="flex flex-wrap items-center gap-3 pt-2">
-                <a
-                  href="mailto:nathan.ferreiira.dev@gmail.com"
-                  target="_blank"
+                <Link
+                  href="/contact"
                   rel="noopener noreferrer"
                   className="p-2 rounded-lg bg-card hover:bg-purple-primary/10 border border-border hover:border-purple-primary/30 transition-all duration-300 group"
                   aria-label="Email"
@@ -100,7 +99,7 @@ export default function Footer() {
                     size={22}
                     className="text-muted-foreground group-hover:text-purple-primary transition-colors"
                   />
-                </a>
+                </Link>
                 <a
                   href="https://github.com/nahtanpng"
                   target="_blank"
