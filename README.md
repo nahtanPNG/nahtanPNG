@@ -11,7 +11,7 @@
 
 - Enthusiast of software development.
 - Currently working with <b>Nest.js</b>, <b>React</b> & <b>TypeScript</b>.
-- Dedicated to deepening my understanding of cloud computing (AWS & GCP), software architecture, infrastructure as a code, and testing.
+- Dedicated to deepening my understanding of cloud computing (AWS & GCP), software architecture, devops, and testing.
 - I also build discord bots, automation tools, and experiment with game development using Lua.
 
     </samp>
